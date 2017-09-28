@@ -27,13 +27,11 @@ If you want to contact us, you can use the following mailing list: <https://grou
 > </tr>
 > </tbody>
 > </table>
->
+
 The available pytroll python packages at the moment are:
 
 -   [pyresample](http://github.com/pytroll/pyresample) for resampling satellite data
--   [mpop](http://github.com/pytroll/mpop) for reading and processing weather satellite data
 -   [satpy](https://github.com/pytroll/satpy) A refactored [mpop](http://github.com/pytroll/mpop) (for reading and processing weather satellite data)
--   [mipp](http://github.com/pytroll/mipp) for reading (mostly HRIT/LRIT formated) weather satellite data
 -   [pycoast](http://github.com/pytroll/pycoast) for putting coastlines, borders and rivers on an image
 -   [pyorbital](http://github.com/pytroll/pyorbital) for computing satellite orbital parameters and reading TLE's
 -   [posttroll](http://github.com/pytroll/posttroll) a higher-level messaging library for pytroll
@@ -53,26 +51,32 @@ Some more packages are in the process of being developed (you're very welcome to
 -   [pygranules](http://pygranule.readthedocs.org/en/latest) for validating, fetching and scheduling satellite data granules
 -   [trollbufr](https://github.com/alexmaul/trollbufr) for reading BUFR files
 
+Some older packages that are being phased out:
+
+-   [mpop](http://github.com/pytroll/mpop) for reading and processing weather satellite data
+-   [mipp](http://github.com/pytroll/mipp) for reading (mostly HRIT/LRIT formated) weather satellite data
+
+
 Satellites supported (imager instruments) at the moment by the reader/processor modules include:
 
-> -   Meteosat series (tested with 7, 8, 9, 10, 11)
-> -   GOES series, in HRIT/LRIT format (tested with 11, 12, 13, 15, 16)
-> -   MTSAT series, in HRIT/LRIT format (tested with 1R, 2)
-> -   Himawari 8 & 9, in HRIT/LRIT format
-> -   Himawari 8 & 9, standard format ([satpy](https://github.com/pytroll/satpy) only)
-> -   Electro L, in HRIT/LRIT format (tested with N1)
-> -   NOAA series, in AAPP, GAC and LAC format (tested with TIROS-N to NOAA-19)
-> -   Metop-A/B, in EPS 1a and 1b format
-> -   Aqua and Terra MODIS, in hdf-eos format
-> -   Suomi NPP, in SDR hdf5 format
-> -   TerraSAR-X
-> -   Radarsat-2 SAR
-> -   COSMO-SkyMed SAR
-> -   Sentinel-1 SAR
-> -   Sentinel-2 MSI
-> -   Sentinel-3 SLSTR & OLCI
-> -   FY-3 viir
-> -   GCOM-W1 AMSR2 in hdf5 format
+-   Meteosat series (tested with 7, 8, 9, 10, 11)
+-   GOES series, in HRIT/LRIT format (tested with 11, 12, 13, 15, 16)
+-   MTSAT series, in HRIT/LRIT format (tested with 1R, 2)
+-   Himawari 8 & 9, in HRIT/LRIT format
+-   Himawari 8 & 9, standard format ([satpy](https://github.com/pytroll/satpy) only)
+-   Electro L, in HRIT/LRIT format (tested with N1)
+-   NOAA series, in AAPP, GAC and LAC format (tested with TIROS-N to NOAA-19)
+-   Metop-A/B, in EPS 1a and 1b format
+-   Aqua and Terra MODIS, in hdf-eos format
+-   Suomi NPP, in SDR hdf5 format
+-   TerraSAR-X
+-   Radarsat-2 SAR
+-   COSMO-SkyMed SAR
+-   Sentinel-1 SAR
+-   Sentinel-2 MSI
+-   Sentinel-3 SLSTR & OLCI
+-   FY-3 viir
+-   GCOM-W1 AMSR2 in hdf5 format
 
 See also [satpy documentation pages](http://satpy.readthedocs.io/en/latest) for a list of file formats supported by [satpy](https://github.com/pytroll/satpy).
 
