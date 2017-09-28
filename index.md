@@ -2,7 +2,7 @@
 
 Pytroll is an easy to use, modular, free and open source python framework for the processing of earth observation satellite data. The provided python packages are designed to be used both in R&D environments and in 24/7 operational production.
 
-The focus is on atmospheric applications and imaging sensors, but as seen from the list of supported satellite sensors below the data that can be handled py Pytroll allows the usage in a wide range of earth sciences.
+The focus is on atmospheric applications and imaging sensors, but as seen from the list of supported satellite sensors below the data that can be handled by Pytroll allows the usage in a wide range of earth sciences.
 
 ## Pytroll packages and supported data
 
