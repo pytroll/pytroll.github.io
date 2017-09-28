@@ -20,7 +20,7 @@ For some pytroll examples, you can have a look at the [Pytroll Gallery](gallery.
 
 ### Getting in touch
 
-If you want to contact us, you can use the following mailing list: <https://groups.google.com/group/pytroll> or chat with us on the pytroll slack: get an invitation [here](https://pytrollslackin.herokuapp.com/) then <pytroll.slack.com>
+If you want to contact us, you can use the following mailing list: <https://groups.google.com/group/pytroll> or chat with us on the pytroll slack: get an invitation [here](https://pytrollslackin.herokuapp.com/) then <https://pytroll.slack.com>
 
 ### Announcements
 
