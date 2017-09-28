@@ -14,7 +14,7 @@ A non exhaustive list of supported satellites and formats is provided here: <htt
 
 For a quick and easy overview of what Pytroll can possibly offer for you have a look at the [Pytroll tutorial](https://docs.google.com/presentation/d/1-ast62mC7X0z7504gSJCthRnQP-8LrU0Pz_CNxUx0Ag/edit#slide=id.p) which was shown at the 2016 Eumetsat conference in Darmstadt Wednesday September 28
 
-For some pytroll examples, head to <https://nbviewer.jupyter.org/github/pytroll/pytroll-examples>
+For some pytroll examples, you can have a look at the [Pytroll Gallery](gallery.md) or head directly to <https://nbviewer.jupyter.org/github/pytroll/pytroll-examples>
 
 ### Getting in touch
 
