@@ -1,3 +1,5 @@
+![Pytroll Logo](https://raw.githubusercontent.com/pytroll/pytroll/master/web/source/images/pytroll_dark_small.png)
+
 ## Pytroll?
 
 The objective of Pytroll is to provide an easy to use, modular, free and open source python framework for the processing of earth observation satellite data. The provided python packages are designed to be used both in R&D environments and in 24/7 operational production.
