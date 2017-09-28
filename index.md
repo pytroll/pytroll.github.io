@@ -6,9 +6,11 @@ The objective of Pytroll is to provide an easy to use, modular, free and open so
 
 The focus is on atmospheric applications and imaging sensors, but as seen from the list of supported satellite sensors below the data that can be handled py Pytroll allows the usage in a wide range of earth sciences.
 
-### Pytroll packages
+### Pytroll packages and supported data
 
 You can find the complete list of pytroll packages on github.com: <https://github.com/pytroll>
+
+A non exhaustive list of supported satellites and formats is provided here: <http://satpy.readthedocs.io/en/latest/>
 
 ### Tutorials, examples...
 
