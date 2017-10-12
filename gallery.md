@@ -14,3 +14,8 @@
 [IPython Notebook](https://nbviewer.jupyter.org/github/pytroll/pytroll-examples/blob/master/satpy/polar_maia.ipynb)
 
 <img src="https://nbviewer.jupyter.org/github/pytroll/pytroll-examples/blob/master/satpy/ct.png">
+
+### Make a channel mosaic of a GOES-16 scene
+[IPython Notebook](https://nbviewer.jupyter.org/github/pytroll/pytroll-examples/blob/master/satpy/GOES-16%20Mosaic%20.ipynb)
+
+<img src="https://nbviewer.jupyter.org/github/pytroll/pytroll-examples/blob/master/satpy/montage_abi.jpg">
