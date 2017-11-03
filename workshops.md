@@ -39,8 +39,8 @@ the pytroll development, please let us know at the mailing list (pytroll@googleg
 pytroll slack: https://pytrollslackin.herokuapp.com/. We plan to have two pytroll weeks (usually 4-5 days of dedicated 
 programming) each year. Usually we will identifiy a few specific topics that we think needs special attention.
 
-[!Pytroll@smhi-2013-1](https://github.com/pytroll/pytroll.github.io/blob/master/img_2022_tiny.jpg?raw=true)
-[!Pytroll@smhi-2013-2](https://github.com/pytroll/pytroll.github.io/blob/master/kuva_tiny.jpg?raw=true)
+![Pytroll@smhi-2013-1](https://github.com/pytroll/pytroll.github.io/blob/master/img_2022_tiny.jpg?raw=true)
+![Pytroll@smhi-2013-2](https://github.com/pytroll/pytroll.github.io/blob/master/kuva_tiny.jpg?raw=true)
 
 
 #### Summary achievements
@@ -84,16 +84,16 @@ Hard work at the 2012 workshop in Norrköping, Sweden:
 
 #### Presentations at the workshop
 
-    - Rationale and motives
-    - Pyresample
-    - Mpop
-    - Mipp
-    - Pyorbital
-    - Python-bufr
-    - Pycoast
-    - Geotiepoints
-    - Posttroll
-    - Trollcast
-    - Other pytroll projects
-    - Tools
+- [Rationale and motives](https://docs.google.com/presentation/d/1dLv5m56ETmr21HsjPTI_N5Ix-2zguUN2-5wKPZ0Z6Fk/edit)
+- Pyresample
+- Mpop
+- Mipp
+- Pyorbital
+- Python-bufr
+- Pycoast
+- Geotiepoints
+- Posttroll
+- Trollcast
+- Other pytroll projects
+- Tools
 
