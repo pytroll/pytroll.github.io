@@ -46,8 +46,8 @@ programming) each year. Usually we will identifiy a few specific topics that we 
  - Enhancements to Pyresample:
    - Now Pyresample allows to attach a weight to the gaussian reprojection method. This is convenient when e.g. gridding
      several swath products into a level 2.5/3 product (Climate applications).
-   - MIPP enhancements and user documentation: MIPP allows XRIT decompression on the fly, and MIPP documentation 
-     slightly improved.
+ - MIPP enhancements and user documentation: MIPP allows XRIT decompression on the fly, and MIPP documentation 
+   slightly improved.
  - Three new projects initiated:
    - Pydecorate to add logos, text, color bars and stuff to images
    - Trollimage - an enhancement of the image.py module in mpop including some color enhancements. 
