@@ -68,11 +68,11 @@ The programming language Python has been chosen since it
 ### Efficient resource usage
 
 - Sharing of software components removes duplicate software development efforts
--- Satellite data processing is very similar at meteorological services. Using the same software platform eliminates duplicate software development for the same functionality.
--- The more partners involved in the development the greater the resource saving effect.
+  - Satellite data processing is very similar at meteorological services. Using the same software platform eliminates duplicate software development for the same functionality.
+  - The more partners involved in the development the greater the resource saving effect.
 - Sharing of processing intense products reduces energy consumption and resource usage on configuration and maintenance
--- Not co-producing processing intense products (typically products derived from local reception not accessible from a central processing facility) at institutes saves processing resources and thereby energy.
--- Saving resources not configuring and maintaining all processing systems frees up resources for development.
+  - Not co-producing processing intense products (typically products derived from local reception not accessible from a central processing facility) at institutes saves processing resources and thereby energy.
+  - Saving resources not configuring and maintaining all processing systems frees up resources for development.
 - The choice of free and open source is deliberately taken to support efficient sharing of development resources and make the software easily accessible to users. Open source code projects stimulates collaboration, and more easily generates positive spin offs. Also, exposing the code to the open source community results in software of higher quality (high demands on stability, easy installation, good documentation, etc).
 
 ### Pytroll successes
