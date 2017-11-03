@@ -1,6 +1,6 @@
-## Workshops
+# Workshops
 
-### RSHU, Saint Petersburg, Russia, March 2017
+## RSHU, Saint Petersburg, Russia, March 2017
 
 A pytroll developers workshop was held at the Russian State Hydrometeorological University (RSHU) 
 in Saint Petersburg, Russia, between March 27th and 31st, 2017. We were around 20 participants from 
@@ -8,7 +8,7 @@ various National Meteorological Institutes, universities and companies.
 
 ![Pytroll@rshu](https://github.com/pytroll/pytroll.github.io/blob/master/PyTROLL29_small.JPG?raw=true)
 
-### FMI, Helsinki, Finland, November 2016
+## FMI, Helsinki, Finland, November 2016
 
 A pytroll developers workshop was held at the Finnish Meteorological Institute (FMI) in Helsinki between November 
 28th and December 2nd, 2016. We were 14 developers from various National Meteorological Institutes and companies 
@@ -16,7 +16,7 @@ around Europe.
 
 ![Pytroll@fmi](https://github.com/pytroll/pytroll.github.io/blob/master/DSC_4983_small.JPG?raw=true)
 
-### DWD, Offenbach, Germany, June 2016
+## DWD, Offenbach, Germany, June 2016
 
 A pytroll developers workshop was held at the Head Quarters of Deutscher Wetterdienst (DWD) in Offenbach between 
 June 13 and 17, 2016. With the paticipation of 18 developers from the national Met Services of Switzerland, 
@@ -24,14 +24,14 @@ Norway, Denmark, Sweden, Finland and Germany, as well as EUMETSAT it was the lar
 
 ![Pytroll@dwd](https://github.com/pytroll/pytroll.github.io/blob/master/Group2_small.JPG?raw=true)
 
-### MeteoSwiss, Locarno, Switzerland, Dec 2015
+## MeteoSwiss, Locarno, Switzerland, Dec 2015
 
 Pytroll workshop Locarno 2015
 
 ![Pytroll@meteoswiss](https://github.com/pytroll/pytroll.github.io/blob/master/workshop2015december_small.png?raw=true)
 
 
-### Workshop 2013, SMHI, Norrköping, November
+## Workshop 2013, SMHI, Norrköping, November
 
 After a two day open workshop we were 7 pytrollers from Finland, Iceland and Sweden staying till the end of week working 
 together on some pressing issues. See below for a summary of achievements. If you would like to contribute actively with 
@@ -43,7 +43,7 @@ programming) each year. Usually we will identifiy a few specific topics that we 
 ![Pytroll@smhi-2013-2](https://github.com/pytroll/pytroll.github.io/blob/master/kuva_tiny.jpg?raw=true)
 
 
-#### Summary achievements
+### Summary achievements
 
  - Extending the user community: Several new users have become more familiar with Pytroll and started contributing.
  - Testing: A number of bugs and user inconveniences were identified, and some have been solved already.
@@ -68,9 +68,7 @@ programming) each year. Usually we will identifiy a few specific topics that we 
  - Colorizing Pytroll images (using the new trollimage component) - "sandwich" product. Color enhanced imagery is commonly
    used in forecast offices, e.g. IR imagery with cold temperatures enhanced using a color palette.
 
-
-
-### Workshop 2012, SMHI, Norrköping, Sweden, November
+## Workshop 2012, SMHI, Norrköping, Sweden, November
 
 The first open Pytroll workshop was held in Norrköping, Sweden, end of November, 2012. Nine programmers or satellite 
 experts from Holland, Finland, Romania and EUMETSAT joined up with the pytroll teams at DMI and SMHI, to get more 
@@ -82,7 +80,7 @@ Hard work at the 2012 workshop in Norrköping, Sweden:
 ![Pytroll@smhi-2012-2](https://github.com/pytroll/pytroll.github.io/blob/master/00008_tiny.jpg?raw=true)
 
 
-#### Presentations at the workshop
+### Presentations at the workshop
 
 - [Rationale and motives](https://docs.google.com/presentation/d/1dLv5m56ETmr21HsjPTI_N5Ix-2zguUN2-5wKPZ0Z6Fk/edit)
 - [Pyresample](https://docs.google.com/presentation/d/1rkM-5HNqn0Wj5BlIQVFvyzCMYfS_DfnG-zw4OuzrRzU/edit)
