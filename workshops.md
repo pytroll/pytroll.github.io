@@ -39,6 +39,10 @@ the pytroll development, please let us know at the mailing list (pytroll@googleg
 pytroll slack: https://pytrollslackin.herokuapp.com/. We plan to have two pytroll weeks (usually 4-5 days of dedicated 
 programming) each year. Usually we will identifiy a few specific topics that we think needs special attention.
 
+![Pytroll@smhi-2013-1](https://github.com/pytroll/pytroll.github.io/blob/master/00004_tiny.jpg?raw=true)
+![Pytroll@smhi-2013-2](https://github.com/pytroll/pytroll.github.io/blob/master/00008_tiny.jpg?raw=true)
+
+
 #### Summary achievements
 
  - Extending the user community: Several new users have become more familiar with Pytroll and started contributing.
