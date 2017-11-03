@@ -12,7 +12,7 @@ A non exhaustive list of supported satellites and formats is provided here: <htt
 
 ## Tutorials, examples...
 
-For a quick and easy overview of what Pytroll can possibly offer for you have a look at the [Pytroll tutorial](https://docs.google.com/presentation/d/1-ast62mC7X0z7504gSJCthRnQP-8LrU0Pz_CNxUx0Ag/edit#slide=id.p) which was shown at the 2016 Eumetsat conference in Darmstadt Wednesday September 28
+For a quick and easy overview of what Pytroll can possibly offer for you have a look at the [Pytroll overview](https://docs.google.com/presentation/d/10QSq6H0QL4WruEiY-1TU4Rk-f05QzZOZ1UoD9adx9ow/edit?usp=sharing) which was shown at the 2017 Eumetsat conference in Rome Tuesday October 3rd.
 
 For some pytroll examples, you can have a look at the [Pytroll Gallery](gallery.md) or head directly to <https://nbviewer.jupyter.org/github/pytroll/pytroll-examples>
 
@@ -27,3 +27,9 @@ Pytroll Workshop was at the Centre Météorologie Spatiale, Météo-France, Lann
 
 ![Pytroll@CMS](https://github.com/pytroll/pytroll/blob/master/web/source/_static/PytrollGroupLannion20170914_small.JPG?raw=true)
 
+## Links
+
+Pytroll Workshops
+Pytroll Manifest
+[Pytroll Shop](http://pytroll.spreadshirt.net/)
+[Pytroll History](https://youtu.be/tZcKpB6yPWo)
