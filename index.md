@@ -29,7 +29,7 @@ Pytroll Workshop was at the Centre Météorologie Spatiale, Météo-France, Lann
 
 ## Links
 
-Pytroll Workshops
-Pytroll Manifest
-[Pytroll Shop](http://pytroll.spreadshirt.net/)
-[Pytroll History](https://youtu.be/tZcKpB6yPWo)
+- Pytroll Workshops
+- Pytroll Manifest
+- [Pytroll Shop](http://pytroll.spreadshirt.net/)
+- [Pytroll History](https://youtu.be/tZcKpB6yPWo)
