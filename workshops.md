@@ -31,7 +31,7 @@ Pytroll workshop Locarno 2015
 ![Pytroll@meteoswiss](https://github.com/pytroll/pytroll.github.io/blob/master/workshop2015december_small.png?raw=true)
 
 
-### Workshop 2013, November, Norrköping
+### Workshop 2013, SMHI, Norrköping, November
 
 After a two day open workshop we were 7 pytrollers from Finland, Iceland and Sweden staying till the end of week working 
 together on some pressing issues. See below for a summary of achievements. If you would like to contribute actively with 
@@ -39,8 +39,8 @@ the pytroll development, please let us know at the mailing list (pytroll@googleg
 pytroll slack: https://pytrollslackin.herokuapp.com/. We plan to have two pytroll weeks (usually 4-5 days of dedicated 
 programming) each year. Usually we will identifiy a few specific topics that we think needs special attention.
 
-![Pytroll@smhi-2013-1](https://github.com/pytroll/pytroll.github.io/blob/master/00004_tiny.jpg?raw=true)
-![Pytroll@smhi-2013-2](https://github.com/pytroll/pytroll.github.io/blob/master/00008_tiny.jpg?raw=true)
+[!Pytroll@smhi-2013-1](https://github.com/pytroll/pytroll.github.io/blob/master/img_2022_tiny.jpg?raw=true)
+[!Pytroll@smhi-2013-2](https://github.com/pytroll/pytroll.github.io/blob/master/kuva_tiny.jpg?raw=true)
 
 
 #### Summary achievements
@@ -68,4 +68,32 @@ programming) each year. Usually we will identifiy a few specific topics that we 
  - Colorizing Pytroll images (using the new trollimage component) - "sandwich" product. Color enhanced imagery is commonly
    used in forecast offices, e.g. IR imagery with cold temperatures enhanced using a color palette.
 
+
+
+### Workshop 2012, SMHI, Norrköping, Sweden, November
+
+The first open Pytroll workshop was held in Norrköping, Sweden, end of November, 2012. Nine programmers or satellite 
+experts from Holland, Finland, Romania and EUMETSAT joined up with the pytroll teams at DMI and SMHI, to get more 
+acquainted with the pytroll tools and how it can be used in their local environments for satellite data production.
+
+Hard work at the 2012 workshop in Norrköping, Sweden:
+
+![Pytroll@smhi-2012-1](https://github.com/pytroll/pytroll.github.io/blob/master/00004_tiny.jpg?raw=true)
+![Pytroll@smhi-2012-2](https://github.com/pytroll/pytroll.github.io/blob/master/00008_tiny.jpg?raw=true)
+
+
+#### Presentations at the workshop
+
+    - Rationale and motives
+    - Pyresample
+    - Mpop
+    - Mipp
+    - Pyorbital
+    - Python-bufr
+    - Pycoast
+    - Geotiepoints
+    - Posttroll
+    - Trollcast
+    - Other pytroll projects
+    - Tools
 
