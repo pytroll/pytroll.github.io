@@ -1,5 +1,13 @@
 # Workshops
 
+## Centre Météorologie Spatiale (CMS), Météo-France, Lannion, September 2017
+
+A pytroll developers workshop took place at the Céntre Météorologie Spatiale in Lannion, Brittany, France, from 11-15 of
+September 2017. 15 participants from several national Meteorological Institutes in Europe, incldung Switzerland, Germany, 
+Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one week improving and enhancing the Pytroll software.
+
+![Pytroll@CMS](https://github.com/pytroll/pytroll/blob/master/web/source/_static/PytrollGroupLannion20170914_small.JPG?raw=true)
+
 ## RSHU, Saint Petersburg, Russia, March 2017
 
 A pytroll developers workshop was held at the Russian State Hydrometeorological University (RSHU) 
