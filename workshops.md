@@ -8,6 +8,55 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
 
 ![Pytroll@CMS](https://github.com/pytroll/pytroll/blob/master/web/source/_static/PytrollGroupLannion20170914_small.JPG?raw=true)
 
+## Summary achievements
+
+- Fine tuning for operational duties:
+  - GOES-16  → NinJo projection
+  - Satpy Ninjotiff 
+- Enhanced visualizations (smoothing, overplotting in transparence, …) of some NWCSAF v2016 CMIC products 
+  (short presentation by Lorenza)
+- fogpy - a FLS (Fog/Low stratus) detection algorithm with PyTroll (Short presentation by mastho)
+- Mad a new draft Pytroll web main page at pytroll.github.io. Discussing migration of the old one at pytroll.org
+- Reading MTG FCI data (CharLS compression): [Presentation](https://docs.google.com/document/d/1_U_FnYuevBiUpgYqBgm5dyzcRBy3ZDM8RjcknBImJ-U/edit)
+- Georeferencing hrit, preparing for the change of earth model
+- Maia reader in satpy
+- Discussed Solar correction on the snow age - but not feasible!
+- Aggdraw works with Python 3
+
+- Pytroll file utils (Trollmoves)
+  - Move_it server/mirror/client setup
+  - Move_it server/mirror/client more robust ? (plugin to heartbeat handler ?)
+  - SFTP transfer
+  
+  
+- Pyninjotiff 
+  - https://github.com/pytroll/pyninjotiff
+  - Pyninojotiff: a command line interface (good for non-programmers). E.g. to convert a geo-tiff (or raster) image to 
+    a ninjotiff format (ninjo tags could be defined on command line or in a configuration file).  
+  - How can pyninjotiff be used with satpy?
+
+- Pyresample
+  - Make pyresample use dask (optionally)
+
+- Satpy
+  - Migration from mpop to satpy
+    - How to convert custom composites
+    - What are the differences in usage
+  - Port satpy readers to xarray
+  - Migrate atmospheric correction to trollflow-sat or satpy ?
+  - Work on cf-writer
+
+- Pytroll-Schedule
+  - Fix two deprecation warning from Numpy
+  - Handle Terra global dumps
+
+- Pyspectral
+  - Atmospheric correction - accounting for limb cooling DWD parametric method implemented in pyspectral and satpy
+  - Use GIT-LFS for LUTs and RSR data
+  - Rayleigh LUT tables and RSR data on zenodo.org
+  - Numpy 1.13-1.12 and masked array bug reported on numpy github
+
+
 ## RSHU, Saint Petersburg, Russia, March 2017
 
 A pytroll developers workshop was held at the Russian State Hydrometeorological University (RSHU) 
