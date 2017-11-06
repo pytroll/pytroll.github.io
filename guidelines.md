@@ -32,7 +32,7 @@
 
 In your IDE/editor, it is highly recommended to activate/install a plugin for/script a save hook for doing automatic style checks and/or corrections, eg autopep8, pylint, pyflakes
 
-##Working with Github
+## Working with Github
 
 Before submitting your changes, make sure your code follow the coding style above, and that your changes are properly covered by tests and documented. Make sure you run a style checker (eg pylint) on your code.
 
