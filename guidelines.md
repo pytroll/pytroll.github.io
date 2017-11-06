@@ -46,8 +46,8 @@ The workflow in a nutshell is to:
 
 Pull requests should avoid committing or adding unused files (ex. .pyc files). Even if they are deleted in future commits they should be purged from the commit history. See [this github article](https://help.github.com/articles/removing-sensitive-data-from-a-repository/) for instructions.
 
-- [https://help.github.com/articles/creating-a-pull-request/]
-- [https://help.github.com/articles/fork-a-repo/]
+- How to [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+- How to [fork a repository](https://help.github.com/articles/fork-a-repo/)
 
 Alternatively, patches formatted with the git format-patch command can be sent to the bdfl of the package.
 
@@ -61,16 +61,16 @@ Commit messages:
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
 - Use the body to explain what and why (not how)
-- [http://chris.beams.io/posts/git-commit/]
-- [http://who-t.blogspot.de/2009/12/on-commit-messages.html]
+- [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- [On commit messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
 
 ## Making releases
 
 “Release early, release often”
 
-Versioning: [http://semver.org/]
+Versioning: [SemVer](http://semver.org/)
 
-The procedure for releasing is provided here [https://github.com/pytroll/pytroll/wiki/Making-a-release]
+The procedure for releasing is provided [here](https://github.com/pytroll/pytroll/wiki/Making-a-release)
 
 ## Appendix A
 
