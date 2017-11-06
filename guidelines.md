@@ -44,10 +44,10 @@ The workflow in a nutshell is to:
 - Submit a pull request (PR) to the project owner making sure changes will be merged to the ‘develop’ or ‘pre-master’ branch.
 - If you need to make further changes after the PR is issued, just push your commits to your fork: they will automatically be appended to the PR.
 
-Pull requests should avoid committing or adding unused files (ex. .pyc files). Even if they are deleted in future commits they should be purged from the commit history. See https://help.github.com/articles/removing-sensitive-data-from-a-repository/ for instructions.
+Pull requests should avoid committing or adding unused files (ex. .pyc files). Even if they are deleted in future commits they should be purged from the commit history. See [this github article](https://help.github.com/articles/removing-sensitive-data-from-a-repository/) for instructions.
 
-- https://help.github.com/articles/creating-a-pull-request/
-- https://help.github.com/articles/fork-a-repo/
+- [https://help.github.com/articles/creating-a-pull-request/]
+- [https://help.github.com/articles/fork-a-repo/]
 
 Alternatively, patches formatted with the git format-patch command can be sent to the bdfl of the package.
 
@@ -61,16 +61,16 @@ Commit messages:
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
 - Use the body to explain what and why (not how)
-- http://chris.beams.io/posts/git-commit/
-- http://who-t.blogspot.de/2009/12/on-commit-messages.html
+- [http://chris.beams.io/posts/git-commit/]
+- [http://who-t.blogspot.de/2009/12/on-commit-messages.html]
 
 ## Making releases
 
 “Release early, release often”
 
-Versioning: http://semver.org/
+Versioning: [http://semver.org/]
 
-The procedure for releasing is provided here https://github.com/pytroll/pytroll/wiki/Making-a-release
+The procedure for releasing is provided here [https://github.com/pytroll/pytroll/wiki/Making-a-release]
 
 ## Appendix A
 
