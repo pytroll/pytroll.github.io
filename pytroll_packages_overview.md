@@ -230,7 +230,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: None
 
-* **24/7 production @*: 
+* **24/7 production @**: 
 
 ### Pytroll-collectors
 
@@ -259,106 +259,106 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Optional PyTroll dependencies**: None
 
-* Other dependencies: Netifaces, netCDF4
+* **Other dependencies**: Netifaces, netCDF4
 
-* 24/7 production @: DWD, SMHI
+* **24/7 production @**: DWD, SMHI
 
 ### Trollflow
 
-* Summary: A small Python workflow execution framework
+* **Summary**: A small Python workflow execution framework
 
-* Development intensity: Medium
+* **Development intensity**: Medium
 
-* Maturity: Becoming mature
+* **Maturity**: Becoming mature
 
-* PyTroll dependencies: None
+* **PyTroll dependencies**: None
 
-* Optional PyTroll dependencies: None
+* **Optional PyTroll dependencies**: None
 
-* Other dependencies: Pyyaml, Mock
+* **Other dependencies**: Pyyaml, Mock
 
-* 24/7 production @: FMI, DWD
+* **24/7 production @**: FMI, DWD
 
 ### Trollflow-sat
 
-* Summary: Trollflow plug-ins for satellite data processing
+* **Summary**: Trollflow plug-ins for satellite data processing
 
-* Development intensity: Medium
+* **Development intensity**: Medium
 
-* Maturity: Becoming mature
+* **Maturity**: Becoming mature
 
-* PyTroll dependencies: SatPy or mpop, PyResample, Posttroll, Trollsift
+* **PyTroll dependencies**: SatPy or mpop, PyResample, Posttroll, Trollsift
 
-* Optional PyTroll dependencies: PyOrbital
+* **Optional PyTroll dependencies**: PyOrbital
 
-* Other dependencies: Pyyaml
+* **Other dependencies**: Pyyaml
 
-* 24/7 production @: FMI, DWD
+* **24/7 production @**: FMI, DWD
 
 
 ### PyGAC
 
-* Summary: A python package to read and calibrate NOAA AVHRR GAC data
+* **Summary**: A python package to read and calibrate NOAA AVHRR GAC data
 
-* Development intensity: Low
+* **Development intensity**: Low
 
-* Maturity: Mature
+* **Maturity**: Mature
 
-* PyTroll dependencies: PyOrbital
+* **PyTroll dependencies**: PyOrbital
 
-* Optional PyTroll dependencies: None
+* **Optional PyTroll dependencies**: None
 
-* Other dependencies: NumPy, h5py, docutils
+* **Other dependencies**: NumPy, h5py, docutils
 
-* 24/7 production @: 
+* **24/7 production @**: 
 
 ### Pyninjotiff
 
-* Summary: Python library for writing Ninjo-compatible TIFF files
+* **Summary**: Python library for writing Ninjo-compatible TIFF files
 
-* Development intensity: Low
+* **Development intensity**: Low
 
-* Maturity: Mature
+* **Maturity**: Mature
 
-* PyTroll dependencies: None
+* **PyTroll dependencies**: None
 
-* Optional PyTroll dependencies: None
+* **Optional PyTroll dependencies**: None
 
-* Other dependencies: NumPy, Six
+* **Other dependencies**: NumPy, Six
 
-* 24/7 production @: MeteoSwiss
+* **24/7 production @**: MeteoSwiss
 
 ### Pytroll-db
 
-* Summary: Database interface for pytroll
+* **Summary**: Database interface for pytroll
 
-* Development intensity: Very low
+* **Development intensity**: Very low
 
-* Maturity: Mature
+* **Maturity**: Mature
 
-* PyTroll dependencies: PyOrbital, Posttroll
+* **PyTroll dependencies**: PyOrbital, Posttroll
 
-* Optional PyTroll dependencies: None
+* **Optional PyTroll dependencies**: None
 
-* Other dependencies: Geoalchemy2, Sqlalchemy, Shapely, Psycop2, Paramiko
+* **Other dependencies**: Geoalchemy2, Sqlalchemy, Shapely, Psycop2, Paramiko
 
-* 24/7 production @:
+* **24/7 production @**:
 
 ### Aggdraw
 
-* Summary: Clone of the aggdraw module
+* **Summary**: Clone of the aggdraw module
 
-* Development intensity: Low
+* **Development intensity**: Low
 
-* Maturity: Mature
+* **Maturity**: Mature
 
-* PyTroll dependencies: None
+* **PyTroll dependencies**: None
 
-* Optional PyTroll dependencies: None
+* **Optional PyTroll dependencies**: None
 
-* Other dependencies: None
+* **Other dependencies**: None
 
-* 24/7 production @: MeteoSwiss, FMI, LEGMC, SMHI, ECCC
+* **24/7 production @**: MeteoSwiss, FMI, LEGMC, SMHI, ECCC
 
 
 
