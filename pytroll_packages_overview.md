@@ -480,7 +480,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 ## Institutes/entities
 
-* COMET: Centro Operativo per la Meteorologia (Operative Center for Meteorology, Italy)
+* COMet: Centro Operativo per la Meteorologia (Operative Center for Meteorology, Italy)
 
 * DMI: Danish Meteorological Institute
 
