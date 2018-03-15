@@ -393,6 +393,90 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 * **In 24/7 production @**: FMI, DMI, SMHI, Met Norway, MeteoSwiss, DWD, COMet, LEGMC, IMO, ESTEA...
 
 
+## Pytroll runners
+
+Below we list various Pytroll runners for specific tasks and applications. Many of these are still a bit specific to SMHI. When it becomes relevant the aim is to make those more general and thus useful to more entities. They are included here, so new users are invited to take off using those existing runners and make them more general to also serve their needs.
+
+### Pytroll-cspp-runner
+
+* **Summary**: PyTroll runner for the SNPP/JPSS pre-processing (RDR to SDR) with the CSPP package
+
+* **Development intensity**: Low
+
+* **Maturity**: Not yet general enough.
+
+* **PyTroll dependencies**: Posttroll
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: None
+
+* **24/7 production @**: SMHI
+
+### Pytroll-aapp-runner
+
+* **Summary**: PyTroll runner for NOAA/Metop pre-processing with the NWPSAF/AAPP package
+
+* **Development intensity**: Low
+
+* **Maturity**: Getting mature
+
+* **PyTroll dependencies**: Posttroll
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: None
+
+* **24/7 production @**: FMI, SMHI, Met Norway
+
+### Pytroll-pps-runner
+
+* **Summary**: PyTroll runner for the NWCSAF/PPS cloud processing package
+
+* **Development intensity**: Low
+
+* **Maturity**: Not yet general enough. 
+
+* **PyTroll dependencies**: Posttroll
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: None
+
+* **24/7 production @**: FMI (with local modifications), SMHI, Met Norway
+
+### Pytroll-osisaf-runner
+
+* **Summary**: Pytroll runner for OSISAF SST products
+
+* **Development intensity**: Low
+
+* **Maturity**: Not general enough. Specific to SMHI
+
+* **PyTroll dependencies**: Posttroll, Mpop
+
+* **Optional PyTroll dependencies:** None
+
+* **Other dependencies**: None
+
+* **24/7 production @**: SMHI
+
+### Pytroll-modis-runner
+
+* **Summary**: PyTroll runner for MODIS pre-processing (PDS to level-1) with SeaDAS
+
+* **Development intensity**: Low
+
+* **Maturity**: Not general enough. Specific to SMHI
+
+* **PyTroll dependencies**: Posttroll
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: None
+
+* **24/7 production @**: SMHI, Met Norway
+
 
 ## Institutes/entities
 
