@@ -121,6 +121,247 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 * **24/7 production @**: FMI, SMHI, IMO, ECCC
 
 
+### Posttroll
+
+* **Summary**: High-level messaging system for pytroll
+
+* **Development intensity**: Medium
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: None
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: Pyzmq
+
+* **24/7 production @**: FMI, DWD, SMHI
+
+### Trollcast
+
+* **Summary**: Polar weather satellite data exchange tool
+
+* **Development intensity**: Low
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: Pyorbital, Posttroll, Trollsift
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: Pyzmq, NumPy, Pyinotify
+
+* **24/7 production @**: FMI, LEGMC, SMHI, IMO
+
+### Pytroll-schedule
+
+* **Summary**: Reception scheduling of polar weather satellites
+
+* **Development intensity**: Low
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: PyOrbital, PyResample
+
+* **Optional PyTroll dependencies**:
+
+* **Other dependencies**: NumPy, Basemap (optional)
+
+* **24/7 production @**: FMI, SMHI, DWD, IMO
+
+### Trollsift
+
+* **Summary**: Formatting, parsing and filtering satellite granule file names
+
+* **Development intensity**: Low
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: None
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: Six
+
+* **24/7 production @**: FMI, DWD, SMHI, IMO,
+
+### PyCoast
+
+* **Summary**: Python package to add coastlines, borders and rivers to raster images using data from the GSHHS and WDBII datasets
+* **Development intensity**: Low
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: None
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: Pyshp, NumPy, Pyproj, Pillow, Six
+
+* **24/7 production @**: MeteoSwiss, FMI, SMHI, ESTEA, LEGMC, IMO, ECCC ...
+
+### PyDecorate
+
+* **Summary**: Package for decorating PIL/Pillow images with logos, texts, and color scales.
+
+* **Development intensity**: Low
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: None
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: Pillow
+
+* **24/7 production @**: IMO, ECCC, MeteoSwiss
+
+### Trollbufr
+
+* **Summary**: A light weight pure Python BUFR reader, and writer
+
+* **Development intensity**: Medium
+
+* **Maturity**: Medium
+
+* **PyTroll dependencies**: None
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: None
+
+* **24/7 production @*: 
+
+### Pytroll-collectors
+
+* **Summary**: Collector modules for Pytroll
+
+* **Development intensity**: Low
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: PyKDTree, Mpop, Posttroll, Trollsift, pytroll-schedule, PyResample, PyCoast
+
+* **Optional PyTroll dependencies**:
+
+* **Other dependencies**: Pyinotify, netifaces, Pillow
+
+* **24/7 production @**: FMI, SMHI
+
+### Trollduction
+* **Summary**: Framework for operational weather satellite image batch production.
+
+* **Development intensity**: Frozen. Being replaced by Trollflow
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: Mpop, Posttroll, PyResample, PyKDTree, Trollimage, PyOrbital, Trollsift, Pytroll-schedule, Pytroll-collectors
+
+* **Optional PyTroll dependencies**: None
+
+* Other dependencies: Netifaces, netCDF4
+
+* 24/7 production @: DWD, SMHI
+
+### Trollflow
+
+* Summary: A small Python workflow execution framework
+
+* Development intensity: Medium
+
+* Maturity: Becoming mature
+
+* PyTroll dependencies: None
+
+* Optional PyTroll dependencies: None
+
+* Other dependencies: Pyyaml, Mock
+
+* 24/7 production @: FMI, DWD
+
+### Trollflow-sat
+
+* Summary: Trollflow plug-ins for satellite data processing
+
+* Development intensity: Medium
+
+* Maturity: Becoming mature
+
+* PyTroll dependencies: SatPy or mpop, PyResample, Posttroll, Trollsift
+
+* Optional PyTroll dependencies: PyOrbital
+
+* Other dependencies: Pyyaml
+
+* 24/7 production @: FMI, DWD
+
+
+### PyGAC
+
+* Summary: A python package to read and calibrate NOAA AVHRR GAC data
+
+* Development intensity: Low
+
+* Maturity: Mature
+
+* PyTroll dependencies: PyOrbital
+
+* Optional PyTroll dependencies: None
+
+* Other dependencies: NumPy, h5py, docutils
+
+* 24/7 production @: 
+
+### Pyninjotiff
+
+* Summary: Python library for writing Ninjo-compatible TIFF files
+
+* Development intensity: Low
+
+* Maturity: Mature
+
+* PyTroll dependencies: None
+
+* Optional PyTroll dependencies: None
+
+* Other dependencies: NumPy, Six
+
+* 24/7 production @: MeteoSwiss
+
+### Pytroll-db
+
+* Summary: Database interface for pytroll
+
+* Development intensity: Very low
+
+* Maturity: Mature
+
+* PyTroll dependencies: PyOrbital, Posttroll
+
+* Optional PyTroll dependencies: None
+
+* Other dependencies: Geoalchemy2, Sqlalchemy, Shapely, Psycop2, Paramiko
+
+* 24/7 production @:
+
+### Aggdraw
+
+* Summary: Clone of the aggdraw module
+
+* Development intensity: Low
+
+* Maturity: Mature
+
+* PyTroll dependencies: None
+
+* Optional PyTroll dependencies: None
+
+* Other dependencies: None
+
+* 24/7 production @: MeteoSwiss, FMI, LEGMC, SMHI, ECCC
+
+
+
 ## Institutes/entities
 
 * CNMCA: Centro Nazionale di Meteorologia e Climatologia Aeronautica (National Center for Aeronautical Meteorology and Climatology, Italy)
