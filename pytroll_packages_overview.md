@@ -22,7 +22,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: NumPy, Pillow, Pyyaml, Six
 
-* **In 24/7 production @**: FMI, MeteoSwiss, DWD, ESTEA, LEGMC, IMO, ECCC...
+* **In 24/7 production @**: FMI, MeteoSwiss, DWD, ESTEA, LEGMC, IMO, ECCC, Met Norway,...
 
 ### Trollimage:
 
@@ -54,7 +54,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: NumPy
 
-* **24/7 production @**: FMI, SMHI, DMI, ESTEA, LEGMC, IMO, ECCC, ...
+* **24/7 production @**: FMI, SMHI, DMI, ESTEA, LEGMC, IMO, ECCC, Met Norway, ...
 
 ### PyResample:
 
@@ -70,7 +70,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: Pyproj, NumPy, Pyyaml, Six, confiobj, setuptools, Numexpr (optional), Dask (optional), Matplotlib (optional), Basemap (optional), Pillow (optional)
 
-* **24/7 production @**: FMI, SMHI, DMI, Met Norway, MeteoSwiss, DWD, CNMCA, ESTEA, LEGMC, IMO, ECCC, ...
+* **24/7 production @**: FMI, SMHI, DMI, Met Norway, MeteoSwiss, DWD, COMet, ESTEA, LEGMC, IMO, ECCC, ...
 
 ### PyKDTree
 
@@ -135,7 +135,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: Pyzmq
 
-* **24/7 production @**: FMI, DWD, SMHI
+* **24/7 production @**: FMI, DWD, SMHI, Met Norway
 
 ### Trollcast
 
@@ -151,7 +151,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: Pyzmq, NumPy, Pyinotify
 
-* **24/7 production @**: FMI, LEGMC, SMHI, IMO
+* **24/7 production @**: FMI, LEGMC, SMHI, IMO, Met Norway, ...
 
 ### Pytroll-schedule
 
@@ -167,7 +167,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: NumPy, Basemap (optional)
 
-* **24/7 production @**: FMI, SMHI, DWD, IMO
+* **24/7 production @**: FMI, SMHI, DWD, IMO, Met Norway, ...
 
 ### Trollsift
 
@@ -183,7 +183,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: Six
 
-* **24/7 production @**: FMI, DWD, SMHI, IMO,
+* **24/7 production @**: FMI, DWD, SMHI, IMO, Met Norway, ...
 
 ### PyCoast
 
@@ -198,7 +198,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: Pyshp, NumPy, Pyproj, Pillow, Six
 
-* **24/7 production @**: MeteoSwiss, FMI, SMHI, ESTEA, LEGMC, IMO, ECCC ...
+* **24/7 production @**: MeteoSwiss, FMI, SMHI, ESTEA, LEGMC, IMO, ECCC, Met Norway, COMet, ...
 
 ### PyDecorate
 
@@ -214,7 +214,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: Pillow
 
-* **24/7 production @**: IMO, ECCC, MeteoSwiss
+* **24/7 production @**: IMO, ECCC, MeteoSwiss, COMet, ...
 
 ### Trollbufr
 
@@ -246,7 +246,7 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: Pyinotify, netifaces, Pillow
 
-* **24/7 production @**: FMI, SMHI
+* **24/7 production @**: FMI, SMHI, Met Norway, ...
 
 ### Trollduction
 * **Summary**: Framework for operational weather satellite image batch production.
@@ -358,13 +358,45 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **Other dependencies**: None
 
-* **24/7 production @**: MeteoSwiss, FMI, LEGMC, SMHI, ECCC
+* **24/7 production @**: MeteoSwiss, FMI, LEGMC, SMHI, ECCC, Met Norway, ...
+
+### Mpop
+
+* **Summary**: Being replaced by SatPy
+
+* **Development intensity**: Low. Frozen: No new features are being implemented, only bug-fixes.
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: PyResample
+
+* **Optional PyTroll dependencies**: Mipp, PySpectral, PyOrbital, PyGAC
+
+* **Other dependencies**: NumPy, Pillow
+
+* **In 24/7 production @**: FMI, SMHI, DMI, Met Norway, MeteoSwiss, DWD, COMet, ESTEA, LEGMC, IMO... 
+
+### Mipp
+
+* **Summary**: Lower level library providing mainly level-1 readers for mpop (SatPy). Originally first of all for HRIT/XRIT data formats (geostationary satellites) but also supports some SAR data formats. 
+
+* **Development intensity**: Low. Most readers are now implemented in SatPy.
+
+* **Maturity**: Mature
+
+* **PyTroll dependencies**: None
+
+* **Optional PyTroll dependencies**: None
+
+* **Other dependencies**: NumPy
+
+* **In 24/7 production @**: FMI, DMI, SMHI, Met Norway, MeteoSwiss, DWD, COMet, LEGMC, IMO, ESTEA...
 
 
 
 ## Institutes/entities
 
-* CNMCA: Centro Nazionale di Meteorologia e Climatologia Aeronautica (National Center for Aeronautical Meteorology and Climatology, Italy)
+* COMET: Centro Operativo per la Meteorologia (Operative Center for Meteorology, Italy)
 
 * DMI: Danish Meteorological Institute
 
