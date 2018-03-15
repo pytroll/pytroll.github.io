@@ -4,5 +4,21 @@ Below is a short summary of all packages developed by and/or maintained by the P
 
 If you are new to PyTroll, and have some satellite data you want to read and display, you should start out by getting familiar with SatPy!
 
-<h2>All existing general PyTroll packages</h2>
+# All existing general PyTroll packages
+
+## SatPy
+
+* **Summary**: Python package for earth-observing satellite data processing. Reading many level-1 and -2 products, resamples the data, generates composite RGB imagery, and saves in a few standard formats such as netCDF, geoTIFF or png. Satpy is replacing Mpop (see below).
+
+* **Development intensity**: High
+
+* **Maturity**: Becoming mature
+
+* **PyTroll dependencies**: PyResample, PyKdtree, Trollimage, Trollsift
+
+* **Optional PyTroll dependencies**: PySpectral, PyOrbital, PyGAC, Mipp, Python-geotiepoints, Pytroll-schedule.
+
+* **Other dependencies**: NumPy, Pillow, Pyyaml, Six
+
+* **In 24/7 production @**: FMI, MeteoSwiss, DWD, ESTEA, LEGMC, IMO, ECCC...
 
