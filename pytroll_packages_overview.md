@@ -22,3 +22,27 @@ If you are new to PyTroll, and have some satellite data you want to read and dis
 
 * **In 24/7 production @**: FMI, MeteoSwiss, DWD, ESTEA, LEGMC, IMO, ECCC...
 
+
+# Institutes/entities
+
+* CNMCA: Centro Nazionale di Meteorologia e Climatologia Aeronautica (National Center for Aeronautical Meteorology and Climatology, Italy)
+
+* DMI: Danish Meteorological Institute
+
+* DWD: Deutscher Wetter Dienst (German weather service)
+
+* ECCC: Environment and Climate Change Canada
+
+* ESTEA: Estonian Environment Agency
+
+* FMI: Finnish Meteorological Institute
+
+* IMO: Icelandic Meteorological Office
+
+* LEGMC: Latvian Environment, Geology and Meteorology Centre
+
+* Met Norway: Norwegian Meteorological Institute
+
+* MeteoSwiss: Swiss Federal Office for Meteorology and Climatology
+
+* SMHI: Swedish Meteorological and Hydrological Institute
