@@ -7,6 +7,8 @@ The focus is on atmospheric applications and imaging sensors, but as seen from t
 ## Pytroll packages and supported data
 
 You can find the complete list of pytroll packages on github.com: <https://github.com/pytroll>
+Also checkout this [overview description](pytroll_packages_overview.md) of all packages and their mutual 
+dependencies, maturity and known usage.
 
 A non exhaustive list of supported satellites and formats is provided here: <http://satpy.readthedocs.io/en/latest/>
 
