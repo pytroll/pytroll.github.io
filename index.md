@@ -23,6 +23,22 @@ Alternatively, you can use the following mailing list: <https://groups.google.co
 
 ## Announcements
 
+### Next Workshop
+
+The Pytroll workshop for spring 2018 will take place this time at the Norwegian Meteorologisk Institutt, in Oslo, Norway, from Monday April 23rd to Friday April 27th 2018.
+
+The Pytroll Workshop is a gathering of some of the developers of Pytroll during which they address issues and new features in the project and work/code together. It is a great opportunity to learn more about Pytroll and get involved in the development. Some experience with Python is  desirable to enjoy the workshop at its full potential :)
+
+If you plan to attend, please send an message to Trygve Aspenes: Trygve.Aspenes@met.no
+
+A [preliminary agenda](https://docs.google.com/document/d/1VSQS-ObcqwjTzy101OgPMB6T8OUyKfkfQOF1Ppe2fac/edit) is available on google docs, along with proposed work items.
+
+Information about how to reach the venue can be found on the [met.no webpage](https://www.met.no/en/contact-us/travel-here). If you have any questions related to the venue or local organization, please address them to Trygve Aspenes: Trygve.Aspenes@met.no
+
+Other questions can be asked on the mailing list, on pytroll.slack.com or directly to Martin Raspaud: martin.raspaud@smhi.se.
+
+### Last Workshop
+
 Pytroll Workshop was at the Centre Météorologie Spatiale, Météo-France, Lannion, September 2017
 
 ![Pytroll@CMS](https://github.com/pytroll/pytroll/blob/master/web/source/_static/PytrollGroupLannion20170914_small.JPG?raw=true)
