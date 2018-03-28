@@ -39,6 +39,10 @@ Information about how to reach the venue can be found on the [met.no webpage](ht
 
 Other questions can be asked on the mailing list, on pytroll.slack.com or directly to Martin Raspaud: martin.raspaud@smhi.se.
 
+### Autumn Workshop
+
+The 2018 autumn workshop will be hosted by EUMETSAT, and will take place at the Headquarters in Darmstadt, Germany from November 26 to 30.
+
 ### Last Workshop
 
 Pytroll Workshop was at the Centre Météorologie Spatiale, Météo-France, Lannion, September 2017
