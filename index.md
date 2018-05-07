@@ -31,7 +31,7 @@ The 2018 autumn workshop will be hosted by EUMETSAT, and will take place at the 
 
 The Pytroll Workshop is a gathering of some of the developers of Pytroll during which they address issues and new features in the project and work/code together. It is a great opportunity to learn more about Pytroll and get involved in the development. Some experience with Python is  desirable to enjoy the workshop at its full potential :)
 
-If you plan to attend, please send an message to Sauli Joro.
+If you plan to attend, please send an message to Sauli Joro: sauli.joro@eumetsat.int
 
 Questions can be asked on the mailing list, on pytroll.slack.com or directly to Martin Raspaud: martin.raspaud@smhi.se.
 
