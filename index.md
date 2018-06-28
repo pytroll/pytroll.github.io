@@ -48,4 +48,5 @@ The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk I
 - [Pytroll Manifest](manifest.md)
 - [Memorandum of Understanding](pytroll_mou_20170222.pdf)
 - [Pytroll Shop](http://pytroll.spreadshirt.net/)
-- [Pytroll History](https://youtu.be/tZcKpB6yPWo)
+!- [Pytroll History](https://youtu.be/tZcKpB6yPWo)
+- [Pytroll History SatPy](https://youtu.be/eBQi2G_fqXQ)
