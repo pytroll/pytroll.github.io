@@ -43,7 +43,7 @@ The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk I
 
 ## Links
 
-- [SatPy introduction at SciPy 2018 by David Hoese](https://www.youtube.com/watch?v=G-fz8L9xHIs)
+- [SatPy introduction at SciPy 2018, by David Hoese](https://www.youtube.com/watch?v=G-fz8L9xHIs)
 - [Pytroll Workshops](workshops.md)
 - [Pytroll Coding Guidelines and Best Practices](guidelines.md)
 - [Pytroll Manifest](manifest.md)
