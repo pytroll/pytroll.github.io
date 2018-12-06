@@ -25,7 +25,7 @@ Alternatively, you can use the following mailing list: <https://groups.google.co
 
 ## Announcements
 
-### Next PyTroll Contributers Week(s)
+### Next PyTroll Contributers Week (PCW)
 
 The 2019 PyTroll Contributers Weeks (PCWs) have not yet been decided. We expect to announce them early 2019.
 
@@ -35,7 +35,7 @@ the development. Some experience with Python is desirable to enjoy the PCW at it
 
 Questions can be asked on the mailing list, on pytroll.slack.com 
 
-### Last Workshop
+### Last PCW
 
 The autumn 2018 PyTroll Contributers Week took place at the EUMETSAT head quarters, in Darmstadt, Germany, 
 from Monday November 26th to Friday November 30th.
@@ -45,9 +45,9 @@ from Monday November 26th to Friday November 30th.
 ## Links
 
 - [SatPy introduction at SciPy 2018, by David Hoese](https://www.youtube.com/watch?v=G-fz8L9xHIs)
-- [Pytroll Workshops](workshops.md)
-- [Pytroll Coding Guidelines and Best Practices](guidelines.md)
-- [Pytroll Manifest](manifest.md)
+- [PyTroll Contributers Weeks](workshops.md)
+- [PyTroll Coding Guidelines and Best Practices](guidelines.md)
+- [PyTroll Manifest](manifest.md)
 - [Memorandum of Understanding](pytroll_mou_20170222.pdf)
-- [Pytroll Shop](http://pytroll.spreadshirt.net/)
-- [Pytroll History SatPy](https://youtu.be/eBQi2G_fqXQ)
+- [PyTroll Shop](http://pytroll.spreadshirt.net/)
+- [PyTroll History SatPy](https://youtu.be/eBQi2G_fqXQ)
