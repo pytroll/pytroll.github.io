@@ -4,6 +4,8 @@
 
 A pytroll contributers week (previously called pytroll developers workshop)
 took place at EUMETSAT, Darmstadt, Germany from 26th to 30th of November, 2018.
+ 
+https://github.com/pytroll/pytroll.github.io/blob/master/IMG_1916.jpeg
 
 A record number (24, though some only a couple of days) PyTroll developers and
 users gathered together during one week to fix bugs, document, enhance and
