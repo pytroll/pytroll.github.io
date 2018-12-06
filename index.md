@@ -25,21 +25,22 @@ Alternatively, you can use the following mailing list: <https://groups.google.co
 
 ## Announcements
 
-### Next Workshop
+### Next PyTroll Contributers Week(s)
 
-The 2018 autumn workshop will be hosted by EUMETSAT, and will take place at the Headquarters in Darmstadt, Germany from November 26 to 30.
+The 2019 PyTroll Contributers Weeks (PCWs) have not yet been decided. We expect to announce them early 2019.
 
-The Pytroll Workshop is a gathering of some of the developers of Pytroll during which they address issues and new features in the project and work/code together. It is a great opportunity to learn more about Pytroll and get involved in the development. Some experience with Python is  desirable to enjoy the workshop at its full potential :)
+The PCWs is a gathering of the developers and users of PyTroll during which they address issues and new features in 
+the project and work/code together. It is a great opportunity to learn more about PyTroll and get involved in 
+the development. Some experience with Python is desirable to enjoy the PCW at its full potential :)
 
-If you plan to attend, please send an message to Sauli Joro: sauli.joro@eumetsat.int
-
-Questions can be asked on the mailing list, on pytroll.slack.com or directly to Martin Raspaud: martin.raspaud@smhi.se.
+Questions can be asked on the mailing list, on pytroll.slack.com 
 
 ### Last Workshop
 
-The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk Institutt, in Oslo, Norway, from Monday April 23rd to Friday April 27th 2018.
+The autumn 2018 PyTroll Contributers Week took place at the EUMETSAT head quarters, in Darmstadt, Germany, 
+from Monday November 26th to Friday November 30th.
 
-![Pytroll@Met.No](https://raw.githubusercontent.com/pytroll/pytroll.github.io/master/pytroll-ws-oslo-20180425.png)
+![Pytroll@Met.No]()
 
 ## Links
 
