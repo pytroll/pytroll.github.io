@@ -18,7 +18,7 @@ organisations were represented:
 - Met Norway
 - Finnish Meteorological Institute Institute (FMI)
 - Swedish Meteorological and Hydrological Institute (SMHI)
-- EEA, Estonia
+- Estonian Environment Agency (EEA)
 - Technavia, Switzerland
 - University of Marburg, Germany
 - National Institute for Geophysics and Vulanology (INGV), Italy
@@ -40,7 +40,7 @@ organisations were represented:
 - Speed up pytroll-schedule and factorize and increase test coverage
 - Solve PySpectral RSR download issue and fix PRs, use versioneer
 
-## Other things which was worked on but not finished
+## Other items worked at but not yet finished
 
 - Implement coastlines for b/w-images
 - FCI reader to work with the new test dataset
@@ -53,7 +53,6 @@ organisations were represented:
 - Add Modis mod35_l2 reader (cloud mask)
 - Add hdf5 MSG reader
 - Ninjotiff configuration can be passed to pyninjotiff
-
 
 
 ## Centre Météorologie Spatiale (CMS), Météo-France, Lannion, September 2017
