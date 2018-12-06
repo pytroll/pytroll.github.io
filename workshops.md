@@ -1,8 +1,8 @@
-# Contributer Weeks
+# Contributers Weeks
 
 ## EUMETSAT Head Quarters, Darmstadt, Germany, November 2018
 
-A pytroll contributers week (previously called pytroll developers workshop)
+A PyTroll contributers week (previously called PyTroll developers workshop)
 took place at EUMETSAT, Darmstadt, Germany from 26th to 30th of November, 2018.
 
 ![PCW@EUMETSAT](https://pbs.twimg.com/media/DtLsFVlW0AAjZPQ.jpg:large)
