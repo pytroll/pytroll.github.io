@@ -1,5 +1,59 @@
 # Workshops
 
+## EUMETSAT Head Quarters, Darmstadt, Germany, November 2018
+
+A pytroll contributers week (previously called pytroll developers workshop)
+took place at EUMETSAT, Darmstadt, Germany from 26th to 30th of November, 2018.
+
+A record number (24, though some only a couple of days) PyTroll developers and
+users gathered together during one week to fix bugs, document, enhance and
+improve functionality of the PyTroll suite of software packages. The following
+organisations were represented:
+
+- EUMETSAT
+- Deutscher Wetterdienst (DWD), Germany
+- MeteoSwiss
+- Met Norway
+- Finnish Meteorological Institute Institute (FMI)
+- Swedish Meteorological and Hydrological Institute (SMHI)
+- EEA, Estonia
+- Technavia, Switzerland
+- University of Marburg, Germany
+- National Institute for Geophysics and Vulanology (INGV), Italy
+
+## List of achievements in summary
+
+
+- A way to handle GSICS calibration in SatPy readers
+- Native msg HRV area definition for ROI (region of interest) files
+- Add unittests for native_msg area_extent calculations
+- Add MPEF product reader
+- Add GOES-15 netCDF reader
+- Port MTSAT-1R/2 HRIT readers from mipp to satpy 
+- Fix #414 (geostationary radiance units)
+- Flake8-ify all of SatPy
+- Satpy xarray/dask and pyninjotiff compatibility
+- Add MSG hrit PROLOGUE and EPILOGUE metadata when saving a dataset to netCDF format (MeteoSwiss, Lorenzo)
+- Daskify near-infrared reflectance part in pyspectral
+- Speed up pytroll-schedule and factorize and increase test coverage
+- Solve PySpectral RSR download issue and fix PRs, use versioneer
+
+## Other things which was worked on but not finished
+
+- Implement coastlines for b/w-images
+- FCI reader to work with the new test dataset
+- Add colormaps for SceneType
+- Document Trollflow production chain
+- Naming convention for readers
+- PyMonitor: package to monitor and easily manage pytroll flow
+- Python 2 vs Python 3: current state
+- Add basic satpy scene to geoviews method
+- Add Modis mod35_l2 reader (cloud mask)
+- Add hdf5 MSG reader
+- Ninjotiff configuration can be passed to pyninjotiff
+
+
+
 ## Centre Météorologie Spatiale (CMS), Météo-France, Lannion, September 2017
 
 A pytroll developers workshop took place at the Céntre Météorologie Spatiale in Lannion, Brittany, France, from 11-15 of
