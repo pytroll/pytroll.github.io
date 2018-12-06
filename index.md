@@ -1,4 +1,4 @@
-![Pytroll Logo](https://raw.githubusercontent.com/pytroll/pytroll/master/web/source/images/pytroll_dark_small.png)
+https://github.com/pytroll/pytroll.github.io/blob/master/workshops.md![Pytroll Logo](https://raw.githubusercontent.com/pytroll/pytroll/master/web/source/images/pytroll_dark_small.png)
 
 Pytroll is an easy to use, modular, free and open source python framework for the processing of earth observation satellite data. The provided python packages are designed to be used both in R&D environments and in 24/7 operational production.
 
@@ -40,7 +40,7 @@ Questions can be asked on the mailing list, on pytroll.slack.com
 The autumn 2018 PyTroll Contributers Week took place at the EUMETSAT head quarters, in Darmstadt, Germany, 
 from Monday November 26th to Friday November 30th.
 
-![Pytroll@Met.No]()
+![PCW@EUMETSAT](https://pbs.twimg.com/media/DtLsFVlW0AAjZPQ.jpg:large)
 
 ## Links
 
