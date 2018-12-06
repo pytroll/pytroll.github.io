@@ -23,7 +23,7 @@ organisations were represented:
 - University of Marburg, Germany
 - National Institute for Geophysics and Vulanology (INGV), Italy
 
-## List of achievements in summary
+### List of achievements in summary
 
 
 - A way to handle GSICS calibration in SatPy readers
@@ -40,7 +40,7 @@ organisations were represented:
 - Speed up pytroll-schedule and factorize and increase test coverage
 - Solve PySpectral RSR download issue and fix PRs, use versioneer
 
-## Other items worked at but not yet finished
+### Other items worked at but not yet finished
 
 - Implement coastlines for b/w-images
 - FCI reader to work with the new test dataset
@@ -54,7 +54,7 @@ organisations were represented:
 - Add hdf5 MSG reader
 - Ninjotiff configuration can be passed to pyninjotiff
 
-### Norwegian Meteorological Institute, Oslo, April, 2018
+## Norwegian Meteorological Institute, Oslo, April, 2018
 
 The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk Institutt, in Oslo, Norway, 
 from Monday April 23rd to Friday April 27th 2018.
@@ -70,7 +70,7 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
 
 ![Pytroll@CMS](https://github.com/pytroll/pytroll/blob/master/web/source/_static/PytrollGroupLannion20170914_small.JPG?raw=true)
 
-## Summary achievements
+### Summary achievements
 
 - Fine tuning for operational duties:
   - GOES-16  → NinJo projection
