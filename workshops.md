@@ -54,6 +54,13 @@ organisations were represented:
 - Add hdf5 MSG reader
 - Ninjotiff configuration can be passed to pyninjotiff
 
+### Norwegian Meteorological Institute, Oslo, April, 2018
+
+The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk Institutt, in Oslo, Norway, 
+from Monday April 23rd to Friday April 27th 2018.
+
+![Pytroll@Met.No](https://raw.githubusercontent.com/pytroll/pytroll.github.io/master/pytroll-ws-oslo-20180425.png)
+
 
 ## Centre Météorologie Spatiale (CMS), Météo-France, Lannion, September 2017
 
