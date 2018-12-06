@@ -1,4 +1,4 @@
-# Workshops
+# Contributer Weeks
 
 ## EUMETSAT Head Quarters, Darmstadt, Germany, November 2018
 
