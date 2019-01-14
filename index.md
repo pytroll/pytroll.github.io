@@ -24,9 +24,10 @@ For some pytroll examples, you can have a look at the [Pytroll Gallery](gallery.
 
 If you want to contact us, we will be very happy to chat with you on the [PyTroll slack](https://pytroll.slack.com).
 To get access you must invite yourself to the slack team by clicking on the
-above badge image or go [here](https://pytrollslackin.herokuapp.com/).
-You see past conversations by
-[looking at the archives](https://pytroll.slackarchive.io)).
+above badge image or go [here](https://pytrollslackin.herokuapp.com/). This
+invite page can sometimes take a while to load so please be patient.
+You can see past conversations by
+[looking at the archives](https://pytroll.slackarchive.io).
 
 Alternatively, you can send messages mailing list: <https://groups.google.com/group/pytroll>.
 
@@ -64,8 +65,8 @@ PyTroll Contributor Weeks (PCW), conference meet-ups, or any other time when
 the project is being represented.
 
 Any violations of this code of conduct will be handled by the core maintainers
-of the project including David Hoese, Martin Raspaud, Adam Dybbroe, and Panu
-Lahtinen. If you wish to report one of the maintainers for a violation and are
+of the project including David Hoese, Martin Raspaud, and Adam Dybbroe.
+If you wish to report one of the maintainers for a violation and are
 not comfortable with them seeing it, please contact one or more of the other
 maintainers to report the violation. Responses to violations will be
 determined by the maintainers and may include one or more of the following:
