@@ -33,19 +33,22 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 ## Announcements
 
-### Next PyTroll Contributers Week (PCW)
+### Next PyTroll Contributor Week (PCW)
 
-The 2019 PyTroll Contributers Weeks (PCWs) have not yet been decided. We expect to announce them early 2019.
+The 2019 Spring PyTroll Contributor Week (PCW) will be in Madison, WI, USA from May 13th to May 17th. See
+the announcement [here](https://go.wisc.edu/ty79a6) for more information.
 
 The PCWs is a gathering of the developers and users of PyTroll during which they address issues and new features in 
 the project and work/code together. It is a great opportunity to learn more about PyTroll and get involved in 
-the development. Some experience with Python is desirable to enjoy the PCW at its full potential :)
+the development. Some experience with Python is desirable to enjoy the PCW at its full potential :) Due to the format
+of the PCW meeting it is not necessary to attend all 5 days. It is perfectly acceptable to come to a PCW and spend
+the time learning how to use Pytroll tools in your own workflow.
 
-Questions can be asked on the mailing list, on pytroll.slack.com 
+Any questions can be asked on the mailing list or on pytroll.slack.com (see "Getting in touch" above).
 
 ### Last PCW
 
-The autumn 2018 PyTroll Contributers Week took place at the EUMETSAT head quarters, in Darmstadt, Germany, 
+The autumn 2018 PyTroll Contributors Week took place at the EUMETSAT head quarters, in Darmstadt, Germany, 
 from Monday November 26th to Friday November 30th.
 
 ![PCW@EUMETSAT](https://pbs.twimg.com/media/DtLsFVlW0AAjZPQ.jpg:large)
@@ -79,7 +82,7 @@ determined by the maintainers and may include one or more of the following:
 ## Links
 
 - [SatPy introduction at SciPy 2018, by David Hoese](https://www.youtube.com/watch?v=G-fz8L9xHIs)
-- [PyTroll Contributers Weeks](workshops.md)
+- [PyTroll Contributors Weeks](workshops.md)
 - [PyTroll Coding Guidelines and Best Practices](guidelines.md)
 - [PyTroll Manifest](manifest.md)
 - [Memorandum of Understanding](pytroll_mou_20170222.pdf)
