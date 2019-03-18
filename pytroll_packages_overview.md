@@ -1,16 +1,26 @@
 # PyTroll package summary overview, dependencies, level of maturity and usage
 
-Below is a short overview of all packages developed by and/or maintained by the PyTroll community. Included is their level of maturity, mutual interdependencies, and known operational usage (as of March 2018).
+Below is a short overview of all packages developed by and/or maintained by the PyTroll community. Included is their
+level of maturity, mutual interdependencies, and known operational usage (as of March 2018).
 
-There is a great spread in the size and complexity of the packages, and they may address rather different issues related to the processing and handling of satellite data.
+There is a great spread in the size and complexity of the packages, and they may address rather different issues
+related to the processing and handling of satellite data.
 
-If you are new to PyTroll, and have some satellite data you want to read and display, you should start out by getting familiar with SatPy!
+If you are new to PyTroll, and have some satellite data you want to read and display, you should start out by getting
+familiar with SatPy!
 
 ## All general PyTroll packages
 
+All packages are python 2.7 and 3.4+ compatible unless specified otherwise. See the individual package documentation
+for details or limitations. Due to the deprecation of Python 2, support in Pytroll packages is not guaranteed after
+2019. If a package below does not work on a certain version of python please file a bug in the appropriate github
+repository.
+
 ### SatPy
 
-* **Summary**: Python package for earth-observing satellite data processing. Reading many level-1 and -2 products, resamples the data, generates composite RGB imagery, and saves in a few standard formats such as netCDF, geoTIFF or png. Satpy is replacing Mpop (see below).
+* **Summary**: Python package for earth-observing satellite data processing. Reading many level-1 and -2 products,
+               resamples the data, generates composite RGB imagery, and saves in a few standard formats such as netCDF,
+               geoTIFF or png. Satpy is replacing Mpop (see below).
 
 * **Development intensity**: High
 

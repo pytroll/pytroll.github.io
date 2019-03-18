@@ -15,46 +15,59 @@
 - Language is US English.
 - We generally follow the pep-8 and pep-257
 - Indentation is 4 spaces (no tabs!)
-- Max line length is set to 80 chars, but up to 120 is tolerated.
+- Max line length is set to 120 characters
 - Every unit of code must be properly tested and documented.
-- Global constants are written in capital letters, eg. PLANK_CONSTANT if they are not modified in the module and should be placed at the top of the module.
-- About docstrings, we follow the [google style](https://google.github.io/styleguide/pyguide.html?showone=Comments#Comments)
-- Prepare to be Python3 compatible.
+- Global constants are written in capital letters, eg. PLANK_CONSTANT if they are not modified in the module and should
+  be placed at the top of the module.
+- About docstrings, we follow the
+  [google style](https://google.github.io/styleguide/pyguide.html?showone=Comments#Comments)
+- Python 2 support until end of 2019
 - When in doubt, read pep 20, the Zen of Python (see appendix A)
 
 ## Maintainability Guidelines
 
-- Functions/methods should not contain more than 15 lines of code (including blank lines and comments).
-- There should be a maximum of 3 branches in each function/method.
-- Functions/methods should not have more than 5 parameters. Think of bundling arguments in helper classes for example.
+- Functions/methods should limit lines of code (including blank lines and comments). We recommend 15 if possible.
+- There should be a maximum of 3 branches in each function/method. Separate and refactor functionality to other
+  functions/methods.
+- Functions/methods should limit number of parameters (~5 parameters). Think of bundling arguments in helper classes
+  for example.
 
 ## Style Checking
 
-In your IDE/editor, it is highly recommended to activate/install a plugin for/script a save hook for doing automatic style checks and/or corrections, eg autopep8, pylint, pyflakes
+In your IDE/editor, it is highly recommended to activate/install a plugin for/script a save hook for doing automatic
+style checks and/or corrections, eg autopep8, pylint, pyflakes. Most repositories will use the "stickler" github bot to
+automatically check pull requests for PEP8 with the `flake8` tool.
 
 ## Working with Github
 
-Before submitting your changes, make sure your code follow the coding style above, and that your changes are properly covered by tests and documented. Make sure you run a style checker (eg pylint) on your code.
+Before submitting your changes, make sure your code follow the coding style above, and that your changes are properly
+covered by tests and documented. Make sure you run a style checker (eg pylint) on your code.
 
-If you want to help develop a Pytroll package, the preferred way to contribute is to fork the original repository and submit a pull request with your proposed changes.
+If you want to help develop a Pytroll package, the preferred way to contribute is to fork the original repository and
+submit a pull request with your proposed changes.
 
 The workflow in a nutshell is to:
 - Fork the repository in github
 - Implement the fix (with a test), it can be multiple commits
-- Submit a pull request (PR) to the project owner making sure changes will be merged to the ‘develop’ or ‘pre-master’ branch.
-- If you need to make further changes after the PR is issued, just push your commits to your fork: they will automatically be appended to the PR.
+- Submit a pull request (PR) to the original upstream repository. Describe your changes and why they were needed.
+  Make sure to link to any related issues or pull requests by using `#179` syntax to reference the number.
+- If you need to make further changes after the PR is issued, push your new commits to your fork's branch: they will
+  automatically be appended to the PR.
 
-Pull requests should avoid committing or adding unused files (ex. .pyc files). Even if they are deleted in future commits they should be purged from the commit history. See [this github article](https://help.github.com/articles/removing-sensitive-data-from-a-repository/) for instructions.
+Pull requests should avoid committing or adding unused files (ex. .pyc files). Even if they are deleted in future
+commits they should be purged from the commit history. See
+[this github article](https://help.github.com/articles/removing-sensitive-data-from-a-repository/) for instructions.
 
 - How to [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 - How to [fork a repository](https://help.github.com/articles/fork-a-repo/)
 
 Alternatively, patches formatted with the git format-patch command can be sent to the bdfl of the package.
 
-The submitted work will be reviewed by the main contributors of the package, possibly engaging in a discussion on the patch, and maybe requesting changes. Be prepared to follow up on your work.
+The submitted work will be reviewed by the main contributors of the package, possibly engaging in a discussion on
+the patch, and maybe requesting changes. Be prepared to follow up on your work.
 
 Commit messages:
-- Separate subject from body with a blank line
+- Separate subject from body with a blank line (see "How to" link below)
 - Limit the subject line to 50 characters
 - Capitalize the subject line
 - Do not end the subject line with a period
@@ -70,7 +83,8 @@ Commit messages:
 
 Versioning: [SemVer](http://semver.org/)
 
-The procedure for releasing is provided [here](https://github.com/pytroll/pytroll/wiki/Making-a-release)
+The procedure for releasing should be provided in each repository in a `RELEASING.md`
+or similarly named file.
 
 ## Appendix A
 
