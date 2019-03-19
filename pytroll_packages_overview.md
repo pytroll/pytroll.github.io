@@ -12,8 +12,8 @@ familiar with SatPy!
 ## All general PyTroll packages
 
 All packages are python 2.7 and 3.4+ compatible unless specified otherwise. See the individual package documentation
-for details or limitations. Due to the deprecation of Python 2, support in Pytroll packages is not guaranteed after
-2019. If a package below does not work on a certain version of python please file a bug in the appropriate github
+for details or limitations. Due to the deprecation of Python 2, support in Pytroll packages is not guaranteed
+after 2019. If a package below does not work on a certain version of python please file a bug in the appropriate github
 repository.
 
 ### SatPy
