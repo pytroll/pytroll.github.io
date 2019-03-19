@@ -51,7 +51,7 @@ Any questions can be asked on the mailing list or on pytroll.slack.com (see "Get
 The autumn 2018 PyTroll Contributors Week took place at the EUMETSAT head quarters, in Darmstadt, Germany, 
 from Monday November 26th to Friday November 30th.
 
-![PCW@EUMETSAT](https://pbs.twimg.com/media/DtLsFVlW0AAjZPQ.jpg:large)
+![PCW@EUMETSAT](https://github.com/pytroll/pytroll.github.io/raw/master/IMG_1916.jpeg)
 
 ## Code of Conduct
 
