@@ -336,7 +336,7 @@ repository.
 
 * **Other dependencies**: NumPy, Six
 
-* **24/7 production @**: MeteoSwiss
+* **24/7 production @**: MeteoSwiss, DWD
 
 ### Pytroll-db
 
