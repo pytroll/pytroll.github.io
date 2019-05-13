@@ -145,12 +145,17 @@ Norway, Denmark, Sweden, Finland and Germany, as well as EUMETSAT it was the lar
 
 ## MeteoSwiss, Locarno, Switzerland, Dec 2015
 
-Pytroll workshop Locarno 2015
+Pytroll workshop in Locarno, Switzerland in December 2015
 
 ![Pytroll@meteoswiss](201512_locarno.png)
 
+## SMHI, Norrköping, Sweden, June 2015
 
-## Workshop 2013, SMHI, Norrköping, November
+Pytroll workshop in Norrköping, Sweden in June 2015
+
+![Pytroll@smhi-201506](201506_norrkoping.png)
+
+## SMHI, Norrköping, Sweden, November 2013
 
 After a two day open workshop we were 7 pytrollers from Finland, Iceland and Sweden staying till the end of week working 
 together on some pressing issues. See below for a summary of achievements. If you would like to contribute actively with 
@@ -208,7 +213,7 @@ Watch all the presentations on [youtube](http://www.youtube.com/watch?v=WEk95gxO
 - [Tools](https://docs.google.com/presentation/d/1AMZt0jBMYem8g7tbNOvz9MEWRm-DbwNCBv9KJPA32cE/edit)
 
 
-## Workshop 2012, SMHI, Norrköping, Sweden, November
+## SMHI, Norrköping, Sweden, November 2012
 
 The first open Pytroll workshop was held in Norrköping, Sweden, end of November, 2012. Nine programmers or satellite 
 experts from Holland, Finland, Romania and EUMETSAT joined up with the pytroll teams at DMI and SMHI, to get more 
