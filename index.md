@@ -52,9 +52,9 @@ The autumn 2018 Pytroll Contributor Week took place at the EUMETSAT head
 quarters, in Darmstadt, Germany, from Monday November 26th to Friday November
 30th.
 
-![PCW@EUMETSAT](IMG_1916.jpeg)
+![PCW@EUMETSAT](workshops/20181126_darmstadt-1.jpeg)
 
-To see other workshops see the [Workshops](workshops.md) page.
+To see other workshops see the [Workshops](./workshops/index.md) page.
 
 ## Code of Conduct
 
@@ -86,7 +86,7 @@ determined by the maintainers and may include one or more of the following:
 ## Links
 
 - [SatPy introduction at SciPy 2018, by David Hoese](https://www.youtube.com/watch?v=G-fz8L9xHIs)
-- [Pytroll Contributors Weeks](workshops.md)
+- [Pytroll Contributors Weeks](workshops/index.md)
 - [Pytroll Coding Guidelines and Best Practices](guidelines.md)
 - [Pytroll Manifest](manifest.md)
 - [Memorandum of Understanding](pytroll_mou_20170222.pdf)
