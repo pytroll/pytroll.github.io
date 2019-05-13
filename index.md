@@ -22,7 +22,7 @@ For some pytroll examples, you can have a look at the [Pytroll Gallery](gallery.
 
 <script async defer src="https://pytrollslackin.herokuapp.com/slackin.js"></script>
 
-If you want to contact us, we will be very happy to chat with you on the [PyTroll slack](https://pytroll.slack.com).
+If you want to contact us, we will be very happy to chat with you on the [Pytroll slack](https://pytroll.slack.com).
 To get access you must invite yourself to the slack team by clicking on the
 above badge image or go [here](https://pytrollslackin.herokuapp.com/). This
 invite page can sometimes take a while to load so please be patient.
@@ -33,38 +33,42 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 ## Announcements
 
-### Next PyTroll Contributor Week (PCW)
+### Next Pytroll Contributor Week (PCW)
 
-The 2019 Spring PyTroll Contributor Week (PCW) will be in Madison, WI, USA from May 13th to May 17th. See
+The 2019 Spring Pytroll Contributor Week (PCW) will be in Madison, WI, USA from May 13th to May 17th. See
 the announcement [here](https://go.wisc.edu/ty79a6) for more information.
 
-The PCWs is a gathering of the developers and users of PyTroll during which they address issues and new features in 
-the project and work/code together. It is a great opportunity to learn more about PyTroll and get involved in 
+The PCWs is a gathering of the developers and users of Pytroll during which they address issues and new features in 
+the project and work/code together. It is a great opportunity to learn more about Pytroll and get involved in 
 the development. Some experience with Python is desirable to enjoy the PCW at its full potential :) Due to the format
 of the PCW meeting it is not necessary to attend all 5 days. It is perfectly acceptable to come to a PCW and spend
 the time learning how to use Pytroll tools in your own workflow.
 
 Any questions can be asked on the mailing list or on pytroll.slack.com (see "Getting in touch" above).
 
-### Last PCW
+### Past PCWs
 
-The autumn 2018 PyTroll Contributors Week took place at the EUMETSAT head quarters, in Darmstadt, Germany, 
-from Monday November 26th to Friday November 30th.
+The autumn 2018 Pytroll Contributor Week took place at the EUMETSAT head
+quarters, in Darmstadt, Germany, from Monday November 26th to Friday November
+30th.
 
-![PCW@EUMETSAT](https://github.com/pytroll/pytroll.github.io/raw/master/IMG_1916.jpeg)
+![PCW@EUMETSAT](IMG_1916.jpeg)
+
+To see other workshops see the [Workshops](workshops.md) page.
 
 ## Code of Conduct
 
-All PyTroll projects and events follow a code of conduct. A link to the code
+All Pytroll projects and events follow a code of conduct. A link to the code
 of conduct can be found in the section below. It is also available in the
-``CODE_OF_CONDUCT.md`` file in the PyTroll package source repositories.
+[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file in the Pytroll package source
+repositories.
 
 This code of conduct applies to the
 project space (GitHub) as well as the public space online and offline when
 an individual is representing the project or the community. Online examples
-of this include the PyTroll Slack team, mailing list, and the PyTroll twitter
+of this include the Pytroll Slack team, mailing list, and the Pytroll twitter
 account. This code of conduct also applies to in-person situations like
-PyTroll Contributor Weeks (PCW), conference meet-ups, or any other time when
+Pytroll Contributor Weeks (PCW), conference meet-ups, or any other time when
 the project is being represented.
 
 Any violations of this code of conduct will be handled by the core maintainers
@@ -82,10 +86,10 @@ determined by the maintainers and may include one or more of the following:
 ## Links
 
 - [SatPy introduction at SciPy 2018, by David Hoese](https://www.youtube.com/watch?v=G-fz8L9xHIs)
-- [PyTroll Contributors Weeks](workshops.md)
-- [PyTroll Coding Guidelines and Best Practices](guidelines.md)
-- [PyTroll Manifest](manifest.md)
+- [Pytroll Contributors Weeks](workshops.md)
+- [Pytroll Coding Guidelines and Best Practices](guidelines.md)
+- [Pytroll Manifest](manifest.md)
 - [Memorandum of Understanding](pytroll_mou_20170222.pdf)
-- [PyTroll Shop](http://pytroll.spreadshirt.net/)
-- [PyTroll History SatPy](https://youtu.be/eBQi2G_fqXQ)
+- [Pytroll Shop](http://pytroll.spreadshirt.net/)
+- [Pytroll History SatPy](https://youtu.be/eBQi2G_fqXQ)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
