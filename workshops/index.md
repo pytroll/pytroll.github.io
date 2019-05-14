@@ -1,11 +1,11 @@
-# Contributers Weeks
+# Contributor Weeks
 
 ## EUMETSAT Head Quarters, Darmstadt, Germany, November 2018
 
 A PyTroll contributers week (previously called PyTroll developers workshop)
 took place at EUMETSAT, Darmstadt, Germany from 26th to 30th of November, 2018.
 
-![PCW@EUMETSAT](https://pbs.twimg.com/media/DtLsFVlW0AAjZPQ.jpg:large)
+![PCW@EUMETSAT](20181126_darmstadt-1.jpeg)
 
 A record number (24, though some only a couple of days) PyTroll developers and
 users gathered together during one week to fix bugs, document, enhance and
@@ -59,7 +59,7 @@ organisations were represented:
 The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk Institutt, in Oslo, Norway, 
 from Monday April 23rd to Friday April 27th 2018.
 
-![Pytroll@Met.No](https://raw.githubusercontent.com/pytroll/pytroll.github.io/master/pytroll-ws-oslo-20180425.png)
+![Pytroll@Met.No](20180425_oslo.png)
 
 
 ## Centre Météorologie Spatiale (CMS), Météo-France, Lannion, September 2017
@@ -68,7 +68,7 @@ A pytroll developers workshop took place at the Céntre Météorologie Spatiale 
 September 2017. 15 participants from several national Meteorological Institutes in Europe, incldung Switzerland, Germany, 
 Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one week improving and enhancing the Pytroll software.
 
-![Pytroll@CMS](https://github.com/pytroll/pytroll/blob/master/web/source/_static/PytrollGroupLannion20170914_small.JPG?raw=true)
+![Pytroll@CMS](20170914_lannion.JPG)
 
 ### Summary achievements
 
@@ -125,7 +125,7 @@ A pytroll developers workshop was held at the Russian State Hydrometeorological 
 in Saint Petersburg, Russia, between March 27th and 31st, 2017. We were around 20 participants from 
 various National Meteorological Institutes, universities and companies.
 
-![Pytroll@rshu](https://github.com/pytroll/pytroll.github.io/blob/master/PyTROLL29_small.JPG?raw=true)
+![Pytroll@rshu](20170327_stpetersburg.JPG)
 
 ## FMI, Helsinki, Finland, November 2016
 
@@ -133,7 +133,7 @@ A pytroll developers workshop was held at the Finnish Meteorological Institute (
 28th and December 2nd, 2016. We were 14 developers from various National Meteorological Institutes and companies 
 around Europe.
 
-![Pytroll@fmi](https://github.com/pytroll/pytroll.github.io/blob/master/DSC_4983_small.JPG?raw=true)
+![Pytroll@fmi](20161128_helsinki.JPG)
 
 ## DWD, Offenbach, Germany, June 2016
 
@@ -141,16 +141,21 @@ A pytroll developers workshop was held at the Head Quarters of Deutscher Wetterd
 June 13 and 17, 2016. With the paticipation of 18 developers from the national Met Services of Switzerland, 
 Norway, Denmark, Sweden, Finland and Germany, as well as EUMETSAT it was the largest to date.
 
-![Pytroll@dwd](https://github.com/pytroll/pytroll.github.io/blob/master/Group2_small.JPG?raw=true)
+![Pytroll@dwd](20160613_offenbach.JPG)
 
 ## MeteoSwiss, Locarno, Switzerland, Dec 2015
 
-Pytroll workshop Locarno 2015
+Pytroll workshop in Locarno, Switzerland in December 2015
 
-![Pytroll@meteoswiss](https://github.com/pytroll/pytroll.github.io/blob/master/workshop2015december_small.png?raw=true)
+![Pytroll@meteoswiss](201512_locarno.png)
 
+## SMHI, Norrköping, Sweden, June 2015
 
-## Workshop 2013, SMHI, Norrköping, November
+Pytroll workshop in Norrköping, Sweden in June 2015
+
+![Pytroll@smhi-201506](201506_norrkoping.png)
+
+## SMHI, Norrköping, Sweden, November 2013
 
 After a two day open workshop we were 7 pytrollers from Finland, Iceland and Sweden staying till the end of week working 
 together on some pressing issues. See below for a summary of achievements. If you would like to contribute actively with 
@@ -158,8 +163,8 @@ the pytroll development, please let us know at the mailing list (pytroll@googleg
 pytroll slack: https://pytrollslackin.herokuapp.com/. We plan to have two pytroll weeks (usually 4-5 days of dedicated 
 programming) each year. Usually we will identifiy a few specific topics that we think needs special attention.
 
-![Pytroll@smhi-2013-1](https://github.com/pytroll/pytroll.github.io/blob/master/img_2022_tiny.jpg?raw=true)
-![Pytroll@smhi-2013-2](https://github.com/pytroll/pytroll.github.io/blob/master/kuva_tiny.jpg?raw=true)
+![Pytroll@smhi-2013-1](201311_norrkoping-1.jpg)
+![Pytroll@smhi-2013-2](201311_norrkoping-2.jpg)
 
 
 ### Summary achievements
@@ -208,7 +213,7 @@ Watch all the presentations on [youtube](http://www.youtube.com/watch?v=WEk95gxO
 - [Tools](https://docs.google.com/presentation/d/1AMZt0jBMYem8g7tbNOvz9MEWRm-DbwNCBv9KJPA32cE/edit)
 
 
-## Workshop 2012, SMHI, Norrköping, Sweden, November
+## SMHI, Norrköping, Sweden, November 2012
 
 The first open Pytroll workshop was held in Norrköping, Sweden, end of November, 2012. Nine programmers or satellite 
 experts from Holland, Finland, Romania and EUMETSAT joined up with the pytroll teams at DMI and SMHI, to get more 
@@ -216,8 +221,8 @@ acquainted with the pytroll tools and how it can be used in their local environm
 
 Hard work at the 2012 workshop in Norrköping, Sweden:
 
-![Pytroll@smhi-2012-1](https://github.com/pytroll/pytroll.github.io/blob/master/00004_tiny.jpg?raw=true)
-![Pytroll@smhi-2012-2](https://github.com/pytroll/pytroll.github.io/blob/master/00008_tiny.jpg?raw=true)
+![Pytroll@smhi-2012-1](201211_norrkoping-1.jpg)
+![Pytroll@smhi-2012-2](201211_norrkoping-2.jpg)
 
 
 ### Presentations at the workshop
