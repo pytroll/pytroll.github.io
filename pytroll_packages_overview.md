@@ -26,6 +26,10 @@ repository.
 
 * **Maturity**: Becoming mature
 
+* **GitHub**: https://github.com/pytroll/satpy
+
+* **Docs**: https://satpy.readthedocs.io
+
 * **PyTroll dependencies**: PyResample, PyKdtree, Trollimage, Trollsift
 
 * **Optional PyTroll dependencies**: PySpectral, PyOrbital, PyGAC, Mipp, Python-geotiepoints, Pytroll-schedule.
@@ -39,6 +43,10 @@ repository.
 * **Summary**: Imaging package for pytroll
 
 * **Development intensity**: Medium
+
+* **GitHub**: https://github.com/pytroll/trollimage
+
+* **Docs**: https://trollimage.readthedocs.io
 
 * **Maturity**: Mature
 
@@ -56,6 +64,10 @@ repository.
 
 * **Development intensity**: Low
 
+* **GitHub**: https://github.com/pytroll/pyorbital
+
+* **Docs**: https://pyorbital.readthedocs.io
+
 * **Maturity**: Mature
 
 * **PyTroll dependencies**: None
@@ -71,6 +83,10 @@ repository.
 * **Summary**: Geospatial image resampling in Python
 
 * **Development intensity**: Medium
+
+* **GitHub**: https://github.com/pytroll/pyresample
+
+* **Docs**: https://pyresample.readthedocs.io
 
 * **Maturity**: Mature
 
@@ -88,6 +104,10 @@ repository.
 
 * **Development intensity**: Low
 
+* **GitHub**: https://github.com/pytroll/pykdtree
+
+* **Docs**: 
+
 * **Maturity**: Mature
 
 * **PyTroll dependencies**: None
@@ -104,6 +124,10 @@ repository.
 
 * **Development intensity**: Medium
 
+* **GitHub**: https://github.com/pytroll/python-geotiepoints
+
+* **Docs**: https://python-geotiepoints.readthedocs.io/en/latest/
+
 * **Maturity**: Mature
 
 * **PyTroll dependencies**: None
@@ -119,6 +143,10 @@ repository.
 * **Summary**: Read and manipulate satellite sensor spectral responses and solar irradiance spectra
 
 * **Development intensity**: Medium
+
+* **GitHub**: https://github.com/pytroll/pyspectral
+
+* **Docs**: https://pyspectral.readthedocs.io
 
 * **Maturity**: Mature
 
@@ -137,6 +165,10 @@ repository.
 
 * **Development intensity**: Medium
 
+* **GitHub**: https://github.com/pytroll/posttroll
+
+* **Docs**: https://posttroll.readthedocs.io
+
 * **Maturity**: Mature
 
 * **PyTroll dependencies**: None
@@ -152,6 +184,10 @@ repository.
 * **Summary**: Polar weather satellite data exchange tool
 
 * **Development intensity**: Low
+
+* **GitHub**: https://github.com/pytroll/trollcast
+
+* **Docs**: https://trollcast.readthedocs.io
 
 * **Maturity**: Mature
 
@@ -169,6 +205,10 @@ repository.
 
 * **Development intensity**: Low
 
+* **GitHub**: https://github.com/pytroll/pytroll-schedule
+
+* **Docs**: https://pytroll-schedule.readthedocs.io
+
 * **Maturity**: Mature
 
 * **PyTroll dependencies**: PyOrbital, PyResample
@@ -184,6 +224,10 @@ repository.
 * **Summary**: Formatting, parsing and filtering satellite granule file names
 
 * **Development intensity**: Low
+
+* **GitHub**: https://github.com/pytroll/trollsift
+
+* **Docs**: https://trollsift.readthedocs.io
 
 * **Maturity**: Mature
 
@@ -202,6 +246,10 @@ repository.
 
 * **Maturity**: Mature
 
+* **GitHub**: https://github.com/pytroll/pycoast
+
+* **Docs**: https://pycoast.readthedocs.io
+
 * **PyTroll dependencies**: None
 
 * **Optional PyTroll dependencies**: None
@@ -217,6 +265,10 @@ repository.
 * **Development intensity**: Low
 
 * **Maturity**: Mature
+
+* **GitHub**: https://github.com/pytroll/pydecorate
+
+* **Docs**: https://pydecorate.readthedocs.io
 
 * **PyTroll dependencies**: None
 
@@ -234,6 +286,10 @@ repository.
 
 * **Maturity**: Medium
 
+* **GitHub**: https://github.com/pytroll/trollbufr
+
+* **Docs**: https://trollbufr.readthedocs.io
+
 * **PyTroll dependencies**: None
 
 * **Optional PyTroll dependencies**: None
@@ -250,6 +306,10 @@ repository.
 
 * **Maturity**: Mature
 
+* **GitHub**: https://github.com/pytroll/pytroll-collectors
+
+* **Docs**: 
+
 * **PyTroll dependencies**: PyKDTree, Mpop, Posttroll, Trollsift, pytroll-schedule, PyResample, PyCoast
 
 * **Optional PyTroll dependencies**:
@@ -264,6 +324,10 @@ repository.
 * **Development intensity**: Frozen. Being replaced by Trollflow
 
 * **Maturity**: Mature
+
+* **GitHub**: https://github.com/pytroll/trollduction
+
+* **Docs**: https://trollduction.readthedocs.io
 
 * **PyTroll dependencies**: Mpop, Posttroll, PyResample, PyKDTree, Trollimage, PyOrbital, Trollsift, Pytroll-schedule, Pytroll-collectors
 
@@ -281,6 +345,10 @@ repository.
 
 * **Maturity**: Becoming mature
 
+* **GitHub**: https://github.com/pytroll/trollflow
+
+* **Docs**: 
+
 * **PyTroll dependencies**: None
 
 * **Optional PyTroll dependencies**: None
@@ -296,6 +364,10 @@ repository.
 * **Development intensity**: Medium
 
 * **Maturity**: Becoming mature
+
+* **GitHub**: https://github.com/pytroll/trollflow-sat
+
+* **Docs**: 
 
 * **PyTroll dependencies**: SatPy or mpop, PyResample, Posttroll, Trollsift
 
@@ -314,6 +386,10 @@ repository.
 
 * **Maturity**: Mature
 
+* **GitHub**: https://github.com/pytroll/pygac
+
+* **Docs**: https://pygac.readthedocs.io
+
 * **PyTroll dependencies**: PyOrbital
 
 * **Optional PyTroll dependencies**: None
@@ -329,6 +405,10 @@ repository.
 * **Development intensity**: Low
 
 * **Maturity**: Mature
+
+* **GitHub**: https://github.com/pytroll/pyninjotiff
+
+* **Docs**: 
 
 * **PyTroll dependencies**: None
 
@@ -346,6 +426,10 @@ repository.
 
 * **Maturity**: Mature
 
+* **GitHub**: https://github.com/pytroll/pytroll-db
+
+* **Docs**: 
+
 * **PyTroll dependencies**: PyOrbital, Posttroll
 
 * **Optional PyTroll dependencies**: None
@@ -361,6 +445,10 @@ repository.
 * **Development intensity**: Low
 
 * **Maturity**: Mature
+
+* **GitHub**: https://github.com/pytroll/aggdraw
+
+* **Docs**: https://aggdraw.readthedocs.io
 
 * **PyTroll dependencies**: None
 
@@ -378,6 +466,10 @@ repository.
 
 * **Maturity**: Mature
 
+* **GitHub**: https://github.com/pytroll/mpop
+
+* **Docs**: https://mpop.readthedocs.io
+
 * **PyTroll dependencies**: PyResample
 
 * **Optional PyTroll dependencies**: Mipp, PySpectral, PyOrbital, PyGAC
@@ -393,6 +485,10 @@ repository.
 * **Development intensity**: Low. Most readers are now implemented in SatPy.
 
 * **Maturity**: Mature
+
+* **GitHub**: https://github.com/pytroll/mipp
+
+* **Docs**: https://mipp.readthedocs.io
 
 * **PyTroll dependencies**: None
 
@@ -415,6 +511,10 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Not yet general enough.
 
+* **GitHub**: https://github.com/pytroll/pytroll-cspp-runner
+
+* **Docs**: 
+
 * **PyTroll dependencies**: Posttroll
 
 * **Optional PyTroll dependencies**: None
@@ -430,6 +530,10 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 * **Development intensity**: Low
 
 * **Maturity**: Getting mature
+
+* **GitHub**: https://github.com/pytroll/pytroll-aapp-runner
+
+* **Docs**: 
 
 * **PyTroll dependencies**: Posttroll
 
@@ -447,6 +551,10 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Not yet general enough. 
 
+* **GitHub**: https://github.com/pytroll/pytroll-pps-runner
+
+* **Docs**: 
+
 * **PyTroll dependencies**: Posttroll
 
 * **Optional PyTroll dependencies**: None
@@ -463,6 +571,10 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Not general enough. Specific to SMHI
 
+* **GitHub**: https://github.com/pytroll/pytroll-osisaf-runner
+
+* **Docs**: 
+
 * **PyTroll dependencies**: Posttroll, Mpop
 
 * **Optional PyTroll dependencies:** None
@@ -478,6 +590,10 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 * **Development intensity**: Low
 
 * **Maturity**: Not general enough. Specific to SMHI
+
+* **GitHub**: https://github.com/pytroll/pytroll-modis-runner
+
+* **Docs**: 
 
 * **PyTroll dependencies**: Posttroll
 
