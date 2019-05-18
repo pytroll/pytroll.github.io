@@ -1,15 +1,27 @@
 # Contributor Weeks
 
+## SSEC, Madison, WI, USA, May 2019
+
+A Pytroll contributor week took place at the Pyle Center on the University
+of Wisconsin - Madison Campus hosted by the Space Science and Engineering
+Center (SSEC) in Madison, WI, USA from 13th to 17th of May, 2019. This was
+the first workshop in the Americas with a total of 25 people attending
+through the week. Attendees came from Europe and North
+America including many first time attendees from the SSEC, CIRA, NRL, and
+NOAA.
+
+![PCW@SSEC](20190518_madison-2.jpg)
+
 ## EUMETSAT Head Quarters, Darmstadt, Germany, November 2018
 
-A PyTroll contributers week (previously called PyTroll developers workshop)
+A Pytroll contributors week (previously called PyTroll developers workshop)
 took place at EUMETSAT, Darmstadt, Germany from 26th to 30th of November, 2018.
 
 ![PCW@EUMETSAT](20181126_darmstadt-1.jpeg)
 
-A record number (24, though some only a couple of days) PyTroll developers and
+A record number (24, though some only a couple of days) Pytroll developers and
 users gathered together during one week to fix bugs, document, enhance and
-improve functionality of the PyTroll suite of software packages. The following
+improve functionality of the Pytroll suite of software packages. The following
 organisations were represented:
 
 - EUMETSAT
@@ -77,7 +89,7 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
   - Satpy Ninjotiff 
 - Enhanced visualizations (smoothing, overplotting in transparence, …) of some NWCSAF v2016 CMIC products 
   (short presentation by Lorenza)
-- fogpy - a FLS (Fog/Low stratus) detection algorithm with PyTroll (Short presentation by mastho)
+- fogpy - a FLS (Fog/Low stratus) detection algorithm with Pytroll (Short presentation by mastho)
 - Mad a new draft Pytroll web main page at pytroll.github.io. Discussing migration of the old one at pytroll.org
 - Reading MTG FCI data (CharLS compression): [Presentation](https://docs.google.com/document/d/1_U_FnYuevBiUpgYqBgm5dyzcRBy3ZDM8RjcknBImJ-U/edit)
 - Georeferencing hrit, preparing for the change of earth model
