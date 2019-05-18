@@ -5,7 +5,7 @@
 A Pytroll contributor week took place at the Pyle Center on the University
 of Wisconsin - Madison Campus hosted by the Space Science and Engineering
 Center (SSEC) in Madison, WI, USA from 13th to 17th of May, 2019. This was
-the first workshop in the Americas with a total of 25 people attending
+the first workshop in the Americas with a total of 24 people attending
 through the week. Attendees came from Europe and North
 America including many first time attendees from the SSEC, CIRA, NRL, and
 NOAA.
