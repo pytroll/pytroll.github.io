@@ -35,8 +35,9 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 ### Next Pytroll Contributor Week (PCW)
 
-The 2019 Spring Pytroll Contributor Week (PCW) will be in Madison, WI, USA from May 13th to May 17th. See
-the announcement [here](https://go.wisc.edu/ty79a6) for more information.
+The 2019 Autumn Pytroll Contributor Week (PCW) will be at the Danish Meteorological Institute (DMI) in Copenhagen, 
+from November 25th till 29th. This Pytroll Week also marks the 10 years anniversary of Pytroll!
+Announcment to be posted here soon.
 
 The PCWs is a gathering of the developers and users of Pytroll during which they address issues and new features in 
 the project and work/code together. It is a great opportunity to learn more about Pytroll and get involved in 
@@ -48,11 +49,15 @@ Any questions can be asked on the mailing list or on pytroll.slack.com (see "Get
 
 ### Past PCWs
 
-The autumn 2018 Pytroll Contributor Week took place at the EUMETSAT head
-quarters, in Darmstadt, Germany, from Monday November 26th to Friday November
-30th.
+The spring 2019 Pytroll Contributor Week took place at the Pyle Center on the University
+of Wisconsin - Madison Campus hosted by the Space Science and Engineering
+Center (SSEC) in Madison, WI, USA from 13th to 17th of May, 2019. This was
+the first workshop in the Americas with a total of 24 people attending
+through the week. Attendees came from Europe and North
+America including many first time attendees from the SSEC, CIRA, NRL, and
+NOAA.
 
-![PCW@EUMETSAT](workshops/20181126_darmstadt-1.jpeg)
+![PCW@SSEC](workshops/20190518_madison-2.jpg)
 
 To see other workshops see the [Workshops](./workshops/index.md) page.
 
