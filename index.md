@@ -37,7 +37,7 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 The 2019 Autumn Pytroll Contributor Week (PCW) will be at the Danish Meteorological Institute (DMI) in Copenhagen, 
 from November 25th till 29th. This Pytroll Week also marks the 10 years anniversary of Pytroll!
-Please see announcment here: https://docs.google.com/document/d/1V9g0C-6f6VzgBaBeiH3ZYroeHLSsxcF9_o8V5hSgE5g/
+Please the [announcement](https://docs.google.com/document/d/1V9g0C-6f6VzgBaBeiH3ZYroeHLSsxcF9_o8V5hSgE5g/)
 
 The PCWs is a gathering of the developers and users of Pytroll during which they address issues and new features in 
 the project and work/code together. It is a great opportunity to learn more about Pytroll and get involved in 
