@@ -26,9 +26,9 @@ repository.
 
 * **Maturity**: Becoming mature
 
-* **GitHub**: https://github.com/pytroll/satpy
+* **GitHub**: <https://github.com/pytroll/satpy>
 
-* **Docs**: https://satpy.readthedocs.io
+* **Docs**: <https://satpy.readthedocs.io>
 
 * **PyTroll dependencies**: PyResample, PyKdtree, Trollimage, Trollsift
 
@@ -44,9 +44,9 @@ repository.
 
 * **Development intensity**: Medium
 
-* **GitHub**: https://github.com/pytroll/trollimage
+* **GitHub**: <https://github.com/pytroll/trollimage>
 
-* **Docs**: https://trollimage.readthedocs.io
+* **Docs**: <https://trollimage.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -64,9 +64,9 @@ repository.
 
 * **Development intensity**: Low
 
-* **GitHub**: https://github.com/pytroll/pyorbital
+* **GitHub**: <https://github.com/pytroll/pyorbital>
 
-* **Docs**: https://pyorbital.readthedocs.io
+* **Docs**: <https://pyorbital.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -84,9 +84,9 @@ repository.
 
 * **Development intensity**: Medium
 
-* **GitHub**: https://github.com/pytroll/pyresample
+* **GitHub**: <https://github.com/pytroll/pyresample>
 
-* **Docs**: https://pyresample.readthedocs.io
+* **Docs**: <https://pyresample.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -104,7 +104,7 @@ repository.
 
 * **Development intensity**: Low
 
-* **GitHub**: https://github.com/pytroll/pykdtree
+* **GitHub**: <https://github.com/pytroll/pykdtree>
 
 * **Docs**: 
 
@@ -124,9 +124,9 @@ repository.
 
 * **Development intensity**: Medium
 
-* **GitHub**: https://github.com/pytroll/python-geotiepoints
+* **GitHub**: <https://github.com/pytroll/python-geotiepoints>
 
-* **Docs**: https://python-geotiepoints.readthedocs.io/en/latest/
+* **Docs**: <https://python-geotiepoints.readthedocs.io/en/latest/>
 
 * **Maturity**: Mature
 
@@ -144,9 +144,9 @@ repository.
 
 * **Development intensity**: Medium
 
-* **GitHub**: https://github.com/pytroll/pyspectral
+* **GitHub**: <https://github.com/pytroll/pyspectral>
 
-* **Docs**: https://pyspectral.readthedocs.io
+* **Docs**: <https://pyspectral.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -165,9 +165,9 @@ repository.
 
 * **Development intensity**: Medium
 
-* **GitHub**: https://github.com/pytroll/posttroll
+* **GitHub**: <https://github.com/pytroll/posttroll>
 
-* **Docs**: https://posttroll.readthedocs.io
+* **Docs**: <https://posttroll.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -185,9 +185,9 @@ repository.
 
 * **Development intensity**: Low
 
-* **GitHub**: https://github.com/pytroll/trollcast
+* **GitHub**: <https://github.com/pytroll/trollcast>
 
-* **Docs**: https://trollcast.readthedocs.io
+* **Docs**: <https://trollcast.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -205,9 +205,9 @@ repository.
 
 * **Development intensity**: Low
 
-* **GitHub**: https://github.com/pytroll/pytroll-schedule
+* **GitHub**: <https://github.com/pytroll/pytroll-schedule>
 
-* **Docs**: https://pytroll-schedule.readthedocs.io
+* **Docs**: <https://pytroll-schedule.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -225,9 +225,9 @@ repository.
 
 * **Development intensity**: Low
 
-* **GitHub**: https://github.com/pytroll/trollsift
+* **GitHub**: <https://github.com/pytroll/trollsift>
 
-* **Docs**: https://trollsift.readthedocs.io
+* **Docs**: <https://trollsift.readthedocs.io>
 
 * **Maturity**: Mature
 
@@ -246,9 +246,9 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/pycoast
+* **GitHub**: <https://github.com/pytroll/pycoast>
 
-* **Docs**: https://pycoast.readthedocs.io
+* **Docs**: <https://pycoast.readthedocs.io>
 
 * **PyTroll dependencies**: None
 
@@ -266,9 +266,9 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/pydecorate
+* **GitHub**: <https://github.com/pytroll/pydecorate>
 
-* **Docs**: https://pydecorate.readthedocs.io
+* **Docs**: <https://pydecorate.readthedocs.io>
 
 * **PyTroll dependencies**: None
 
@@ -286,9 +286,9 @@ repository.
 
 * **Maturity**: Medium
 
-* **GitHub**: https://github.com/pytroll/trollbufr
+* **GitHub**: <https://github.com/pytroll/trollbufr>
 
-* **Docs**: https://trollbufr.readthedocs.io
+* **Docs**: <https://trollbufr.readthedocs.io>
 
 * **PyTroll dependencies**: None
 
@@ -306,7 +306,7 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/pytroll-collectors
+* **GitHub**: <https://github.com/pytroll/pytroll-collectors>
 
 * **Docs**: 
 
@@ -325,9 +325,9 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/trollduction
+* **GitHub**: <https://github.com/pytroll/trollduction>
 
-* **Docs**: https://trollduction.readthedocs.io
+* **Docs**: <https://trollduction.readthedocs.io>
 
 * **PyTroll dependencies**: Mpop, Posttroll, PyResample, PyKDTree, Trollimage, PyOrbital, Trollsift, Pytroll-schedule, Pytroll-collectors
 
@@ -345,7 +345,7 @@ repository.
 
 * **Maturity**: Becoming mature
 
-* **GitHub**: https://github.com/pytroll/trollflow
+* **GitHub**: <https://github.com/pytroll/trollflow>
 
 * **Docs**: 
 
@@ -365,7 +365,7 @@ repository.
 
 * **Maturity**: Becoming mature
 
-* **GitHub**: https://github.com/pytroll/trollflow-sat
+* **GitHub**: <https://github.com/pytroll/trollflow-sat>
 
 * **Docs**: 
 
@@ -386,9 +386,9 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/pygac
+* **GitHub**: <https://github.com/pytroll/pygac>
 
-* **Docs**: https://pygac.readthedocs.io
+* **Docs**: <https://pygac.readthedocs.io>
 
 * **PyTroll dependencies**: PyOrbital
 
@@ -406,7 +406,7 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/pyninjotiff
+* **GitHub**: <https://github.com/pytroll/pyninjotiff>
 
 * **Docs**: 
 
@@ -426,7 +426,7 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/pytroll-db
+* **GitHub**: <https://github.com/pytroll/pytroll-db>
 
 * **Docs**: 
 
@@ -446,9 +446,9 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/aggdraw
+* **GitHub**: <https://github.com/pytroll/aggdraw>
 
-* **Docs**: https://aggdraw.readthedocs.io
+* **Docs**: <https://aggdraw.readthedocs.io>
 
 * **PyTroll dependencies**: None
 
@@ -466,9 +466,9 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/mpop
+* **GitHub**: <https://github.com/pytroll/mpop>
 
-* **Docs**: https://mpop.readthedocs.io
+* **Docs**: <https://mpop.readthedocs.io>
 
 * **PyTroll dependencies**: PyResample
 
@@ -486,9 +486,9 @@ repository.
 
 * **Maturity**: Mature
 
-* **GitHub**: https://github.com/pytroll/mipp
+* **GitHub**: <https://github.com/pytroll/mipp>
 
-* **Docs**: https://mipp.readthedocs.io
+* **Docs**: <https://mipp.readthedocs.io>
 
 * **PyTroll dependencies**: None
 
@@ -511,7 +511,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Not yet general enough.
 
-* **GitHub**: https://github.com/pytroll/pytroll-cspp-runner
+* **GitHub**: <https://github.com/pytroll/pytroll-cspp-runner>
 
 * **Docs**: 
 
@@ -531,7 +531,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Getting mature
 
-* **GitHub**: https://github.com/pytroll/pytroll-aapp-runner
+* **GitHub**: <https://github.com/pytroll/pytroll-aapp-runner>
 
 * **Docs**: 
 
@@ -551,7 +551,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Not yet general enough. 
 
-* **GitHub**: https://github.com/pytroll/pytroll-pps-runner
+* **GitHub**: <https://github.com/pytroll/pytroll-pps-runner>
 
 * **Docs**: 
 
@@ -571,7 +571,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Not general enough. Specific to SMHI
 
-* **GitHub**: https://github.com/pytroll/pytroll-osisaf-runner
+* **GitHub**: <https://github.com/pytroll/pytroll-osisaf-runner>
 
 * **Docs**: 
 
@@ -591,7 +591,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Maturity**: Not general enough. Specific to SMHI
 
-* **GitHub**: https://github.com/pytroll/pytroll-modis-runner
+* **GitHub**: <https://github.com/pytroll/pytroll-modis-runner>
 
 * **Docs**: 
 
