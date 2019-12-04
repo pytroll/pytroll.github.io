@@ -26,8 +26,6 @@ If you want to contact us, we will be very happy to chat with you on the [Pytrol
 To get access you must invite yourself to the slack team by clicking on the
 above badge image or go [here](https://pytrollslackin.herokuapp.com/). This
 invite page can sometimes take a while to load so please be patient.
-You can see past conversations by
-[looking at the archives](https://pytroll.slackarchive.io).
 
 Alternatively, you can send messages mailing list: <https://groups.google.com/group/pytroll>.
 
