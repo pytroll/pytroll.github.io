@@ -1,5 +1,25 @@
 # Contributor Weeks
 
+## DMI, Copenhagen, Denmark, November 2019
+
+The 10 years anniversary PCW took place at the Danish Meteorological Institute
+in the very same buildings where it all started almost exactly 10 years earlier
+by an informal meeting between DMI (Esben, Lars and Rune) and SMHI (Adam and
+Martin) on December 4th, 2009.
+
+This time we were 18 people attending, almost all of us during the entire week,
+coming from Polen, Germany, Switzerland, Sweden, Denmark and Italy,
+representing 8 different entities (National Met services, EUMETSAT, TechNavia,
+and other governmental and environmental institutes). We had a mixture of a few
+first time attendees and those who have been attending regularly the last few
+years.
+
+![PCW@DMI](20191125_090154_cropped.jpg)
+![PCW@DMI](IMG_20191126_105720_cropped_thumb.jpg)
+![PCW@DMI](IMG_20191126_105755_cropped_thumb.jpg)
+![PCW@DMI](IMG_20191126_185104_thumb.jpg)
+
+
 ## SSEC, Madison, WI, USA, May 2019
 
 A Pytroll contributor week took place at the Pyle Center on the University

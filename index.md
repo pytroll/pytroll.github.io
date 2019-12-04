@@ -33,10 +33,11 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 ## Announcements
 
-No announcements at the moment. The next Pytroll Contributor Week (PCW) is
+December 4th, 2019 was the [10 year anniversary of Pytroll](https://youtu.be/RgGiDypQrMQ)
+
+The next Pytroll Contributor Week (PCW) is
 tentatively scheduled for spring 2020 (likely May) in Norrköping, Sweden. We
 will come back later when location and dates have been decided.
-
 
 
 ## Pytroll Contributor Weeks (PCWs)
@@ -55,9 +56,9 @@ Any questions can be asked on the mailing list or on pytroll.slack.com (see "Get
 
 ### Past PCWs
 
-The autumn 2019 Pytroll Contributor Week took place at the DMI headquarters in
+The most recent Pytroll Contributor Week took place at the DMI headquarters in
 Copenhagen, Denmark, from November 25th till 29th, 2019. The Copenhagen PCW was
-special in the sence that it was taking place almost exactly 10 years since
+particularly special since it was taking place almost exactly 10 years since
 Pytroll was started, then as a bilateral cooperation between the Danish and
 Swedish Met services. This time we were 18 people attending, almost all of us
 during the entire week, coming from Polen, Germany, Switzerland, Sweden,
@@ -68,7 +69,9 @@ regularly the last few years.
 
 ![PCW@DMI](workshops/IMG_5639_cropped_thumb.JPG)
 
-To see other workshops see the [Workshops](./workshops/index.md) page.
+For a summary of achievements in the last PCW and to see other workshops look
+at the [Workshops](./workshops/index.md) page.
+
 
 ## Code of Conduct
 
