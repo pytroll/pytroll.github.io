@@ -52,7 +52,8 @@ of the PCW meeting it is not necessary to attend all 5 days. It is perfectly
 acceptable to come to a PCW and spend the time learning how to use Pytroll
 tools in your own workflow.
 
-Any questions can be asked on the mailing list or on pytroll.slack.com (see "Getting in touch" above).
+Any questions can be asked on the mailing list or on pytroll.slack.com (see
+"Getting in touch" above).
 
 ### Past PCWs
 
@@ -61,11 +62,11 @@ Copenhagen, Denmark, from November 25th till 29th, 2019. The Copenhagen PCW was
 particularly special since it was taking place almost exactly 10 years since
 Pytroll was started, then as a bilateral cooperation between the Danish and
 Swedish Met services. This time we were 18 people attending, almost all of us
-during the entire week, coming from Polen, Germany, Switzerland, Sweden,
+during the entire week, coming from Poland, Germany, Switzerland, Sweden,
 Denmark and Italy, representing 8 different entities (National Met services,
-EUMETSAT, TechNavia, and other governmental and environmental institutes). We
-had a mixture of a few first time attendees to those who have been attending
-regularly the last few years.
+EUMETSAT, Tecnavia (Swiss company), and other governmental/environmental
+institutes). We had a mixture of a few first time attendees to those who have
+been attending regularly the last few years.
 
 ![PCW@DMI](workshops/IMG_5639_cropped_thumb.JPG)
 
