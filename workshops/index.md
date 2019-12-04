@@ -90,7 +90,7 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
 - Enhanced visualizations (smoothing, overplotting in transparence, …) of some NWCSAF v2016 CMIC products 
   (short presentation by Lorenza)
 - fogpy - a FLS (Fog/Low stratus) detection algorithm with Pytroll (Short presentation by mastho)
-- Mad a new draft Pytroll web main page at pytroll.github.io. Discussing migration of the old one at pytroll.org
+- Made a new draft Pytroll web main page at pytroll.github.io. Discussing migration of the old one at pytroll.org
 - Reading MTG FCI data (CharLS compression): [Presentation](https://docs.google.com/document/d/1_U_FnYuevBiUpgYqBgm5dyzcRBy3ZDM8RjcknBImJ-U/edit)
 - Georeferencing hrit, preparing for the change of earth model
 - Maia reader in satpy
