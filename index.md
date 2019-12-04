@@ -33,33 +33,46 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 ## Announcements
 
-### Next Pytroll Contributor Week (PCW)
+December 4th, 2019 was the [10 year anniversary of Pytroll](https://youtu.be/RgGiDypQrMQ)
 
-The 2019 Autumn Pytroll Contributor Week (PCW) will be at the Danish Meteorological Institute (DMI) in Copenhagen, 
-from November 25th till 29th. This Pytroll Week also marks the 10 years anniversary of Pytroll!
-Please see the [announcement](https://docs.google.com/document/d/1V9g0C-6f6VzgBaBeiH3ZYroeHLSsxcF9_o8V5hSgE5g/).
+The next Pytroll Contributor Week (PCW) is
+tentatively scheduled for spring 2020 (likely May) in Norrköping, Sweden. We
+will come back later when location and dates have been decided.
 
-The PCWs is a gathering of the developers and users of Pytroll during which they address issues and new features in 
-the project and work/code together. It is a great opportunity to learn more about Pytroll and get involved in 
-the development. Some experience with Python is desirable to enjoy the PCW at its full potential :) Due to the format
-of the PCW meeting it is not necessary to attend all 5 days. It is perfectly acceptable to come to a PCW and spend
-the time learning how to use Pytroll tools in your own workflow.
 
-Any questions can be asked on the mailing list or on pytroll.slack.com (see "Getting in touch" above).
+## Pytroll Contributor Weeks (PCWs)
+
+The PCW is a gathering of the developers and users of Pytroll during which they
+address issues and new features in the project and work/code together. It is
+usually conducted as a hackaton type of event during one week in some of the
+instutions already contributing to Pytroll. It is a great opportunity to learn
+more about Pytroll and get involved in the development. Some experience with
+Python is desirable to enjoy the PCW at its full potential :) Due to the format
+of the PCW meeting it is not necessary to attend all 5 days. It is perfectly
+acceptable to come to a PCW and spend the time learning how to use Pytroll
+tools in your own workflow.
+
+Any questions can be asked on the mailing list or on pytroll.slack.com (see
+"Getting in touch" above).
 
 ### Past PCWs
 
-The spring 2019 Pytroll Contributor Week took place at the Pyle Center on the University
-of Wisconsin - Madison Campus hosted by the Space Science and Engineering
-Center (SSEC) in Madison, WI, USA from 13th to 17th of May, 2019. This was
-the first workshop in the Americas with a total of 24 people attending
-through the week. Attendees came from Europe and North
-America including many first time attendees from the SSEC, CIRA, NRL, and
-NOAA.
+The most recent Pytroll Contributor Week took place at the DMI headquarters in
+Copenhagen, Denmark, from November 25th till 29th, 2019. The Copenhagen PCW was
+particularly special since it was taking place almost exactly 10 years since
+Pytroll was started, then as a bilateral cooperation between the Danish and
+Swedish Met services. This time we were 18 people attending, almost all of us
+during the entire week, coming from Poland, Germany, Switzerland, Sweden,
+Denmark and Italy, representing 8 different entities (National Met services,
+EUMETSAT, Tecnavia (Swiss company), and other governmental/environmental
+institutes). We had a mixture of a few first time attendees to those who have
+been attending regularly the last few years.
 
-![PCW@SSEC](workshops/20190518_madison-2.jpg)
+![PCW@DMI](workshops/IMG_5639_cropped_thumb.JPG)
 
-To see other workshops see the [Workshops](./workshops/index.md) page.
+For a summary of achievements in the last PCW and to see other workshops look
+at the [Workshops](./workshops/index.md) page.
+
 
 ## Code of Conduct
 

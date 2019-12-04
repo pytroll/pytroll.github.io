@@ -1,5 +1,66 @@
 # Contributor Weeks
 
+## DMI, Copenhagen, Denmark, November 2019
+
+The 10 years anniversary PCW took place at the Danish Meteorological Institute
+in the very same buildings where it all started almost exactly 10 years earlier
+by an informal meeting between DMI (Esben, Lars and Rune) and SMHI (Adam and
+Martin) on December 4th, 2009.
+
+This time we were 18 people attending, almost all of us during the entire week,
+coming from Polen, Germany, Switzerland, Sweden, Denmark and Italy,
+representing 8 different entities (National Met services, EUMETSAT, TechNavia,
+and other governmental and environmental institutes). We had a mixture of a few
+first time attendees and those who have been attending regularly the last few
+years.
+
+![PCW@DMI](20191125_090154_cropped.jpg)
+![PCW@DMI](IMG_20191126_105720_cropped_thumb.jpg)
+![PCW@DMI](IMG_20191126_105755_cropped_thumb.jpg)
+![PCW@DMI](IMG_20191126_185104_thumb.jpg)
+
+
+### List of achievements in summary
+
+- FCI reader: Optimisation. The reader is now approximately 30-times faster
+  (from 40 minutes to 80 seconds). Work on understanding and possibly fixing
+  the current navigation issue (data seems to be shifted x,y km to the south,
+  east?). No breakthrough there yet.
+
+- Meteosat-SEVIRI native format handling in Satpy. The HRV band was not
+  properly handled for the Eumetsat Native format.
+
+- Adding new masked composites (using cloud mask for example) to Satpy
+
+- Progress on the gradient search resampler, which can in particular heavily
+  speed up the bilenar resampling - so far supporting AVHRR and Sentinel-1
+  SAR. Work on SEVIRI ongoing.
+
+- Updating and improving the documentation in several modules. In Pyresample
+  updated doc and examples on quicklook plotting.
+
+- Enhancing Pyorbital with functionality to calculate Simultaneous Nadir
+  Overpasses (SNOs) from two satellite platforms.
+
+- Progress on padding nodata (e.g. missing segments) in Geostationary satellite
+  data in Satpy. Without padding the resampling LUTs cannot be reused for each
+  dataset, heavily affecting the computation speed.
+
+- Much work and progress on ninjotiff image generation. Validation with
+  synthetic images, and tests added to check colormaps, scales and offsets.
+
+- Work and testing of Trollflow2 and containers- testing EARS-VIIRS, SEVIRI
+  HRIT, EARS-AVHRR.
+
+- Test and verifying Satpy tutorials.
+
+- A new projection (transverse Mercator) added to the Satpy netCDF/CF writer.
+
+- Work on a-train match and cartopy.
+
+- Many small bugs fixed.
+
+
 ## SSEC, Madison, WI, USA, May 2019
 
 A Pytroll contributor week took place at the Pyle Center on the University
@@ -90,7 +151,7 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
 - Enhanced visualizations (smoothing, overplotting in transparence, …) of some NWCSAF v2016 CMIC products 
   (short presentation by Lorenza)
 - fogpy - a FLS (Fog/Low stratus) detection algorithm with Pytroll (Short presentation by mastho)
-- Mad a new draft Pytroll web main page at pytroll.github.io. Discussing migration of the old one at pytroll.org
+- Made a new draft Pytroll web main page at pytroll.github.io. Discussing migration of the old one at pytroll.org
 - Reading MTG FCI data (CharLS compression): [Presentation](https://docs.google.com/document/d/1_U_FnYuevBiUpgYqBgm5dyzcRBy3ZDM8RjcknBImJ-U/edit)
 - Georeferencing hrit, preparing for the change of earth model
 - Maia reader in satpy
