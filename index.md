@@ -31,6 +31,8 @@ You can see past conversations by
 
 Alternatively, you can send messages mailing list: <https://groups.google.com/group/pytroll>.
 
+<a href="https://twitter.com/PytrollOrg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PytrollOrg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Announcements
 
 December 4th, 2019 was the [10 year anniversary of Pytroll](https://youtu.be/RgGiDypQrMQ)
