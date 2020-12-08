@@ -336,7 +336,7 @@ individual package documentation for details or limitations.
 
 * **Other dependencies**: Pyyaml, Mock
 
-* **24/7 production @**: FMI, DWD
+* **24/7 production @**: FMI, DWD, SMHI
 
 ### PyGAC
 
