@@ -330,7 +330,7 @@ individual package documentation for details or limitations.
 
 * **Docs**: 
 
-* **Pytroll dependencies**: None
+* **Pytroll dependencies**: Satpy, Posttroll, Pyorbital, Trollsift
 
 * **Optional Pytroll dependencies**: None
 
