@@ -35,7 +35,7 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 December 4th, 2019 was the [10 year anniversary of Pytroll](https://youtu.be/RgGiDypQrMQ)
 
-The next Pytroll Contributor Week (PCW) will held online May 4th-8th. More info [here](https://groups.google.com/d/msg/pytroll/gvA12-HBUHQ/vjmcn608AgAJ).
+The next Pytroll Contributor Week (PCW) will held online May 17th-21st. More info [here](https://groups.google.com/g/pytroll/c/_tp9YhCQveE/m/4brd8vLYAQAJ).
 
 
 ## Pytroll Contributor Weeks (PCWs)
