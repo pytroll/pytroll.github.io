@@ -55,7 +55,7 @@ Any questions can be asked on the mailing list or on pytroll.slack.com (see
 
 ### Past PCWs
 
-The most recent Pytroll Contributor Week took place at the DMI headquarters in
+The most recent in-person Pytroll Contributor Week took place at the DMI headquarters in
 Copenhagen, Denmark, from November 25th till 29th, 2019. The Copenhagen PCW was
 particularly special since it was taking place almost exactly 10 years since
 Pytroll was started, then as a bilateral cooperation between the Danish and
