@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ![Pytroll Logo](./logos/pytroll_dark_small.png)
 
 Pytroll is an easy to use, modular, free and open source python framework for the processing of earth observation satellite data. The provided python packages are designed to be used both in R&D environments and in 24/7 operational production.
@@ -37,7 +41,6 @@ December 4th, 2019 was the [10 year anniversary of Pytroll](https://youtu.be/RgG
 
 The next Pytroll Contributor Week (PCW) will held online May 17th-21st. More info [here](https://groups.google.com/g/pytroll/c/_tp9YhCQveE/m/4brd8vLYAQAJ).
 
-
 ## Pytroll Contributor Weeks (PCWs)
 
 The PCW is a gathering of the developers and users of Pytroll during which they
@@ -72,41 +75,7 @@ For a summary of achievements in the last PCW and to see other workshops look
 at the [Workshops](./workshops/index.md) page.
 
 
-## Code of Conduct
+## Other Links
 
-All Pytroll projects and events follow a code of conduct. A link to the code
-of conduct can be found in the section below. It is also available in the
-[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file in the Pytroll package source
-repositories.
-
-This code of conduct applies to the
-project space (GitHub) as well as the public space online and offline when
-an individual is representing the project or the community. Online examples
-of this include the Pytroll Slack team, mailing list, and the Pytroll twitter
-account. This code of conduct also applies to in-person situations like
-Pytroll Contributor Weeks (PCW), conference meet-ups, or any other time when
-the project is being represented.
-
-Any violations of this code of conduct will be handled by the core maintainers
-of the project including David Hoese, Martin Raspaud, and Adam Dybbroe.
-If you wish to report one of the maintainers for a violation and are
-not comfortable with them seeing it, please contact one or more of the other
-maintainers to report the violation. Responses to violations will be
-determined by the maintainers and may include one or more of the following:
-
-- Verbal warning
-- Ask for public apology
-- Temporary or permanent ban from in-person events
-- Temporary or permanent ban from online communication (Slack, mailing list, etc)
-
-## Links
-
-- [SatPy introduction at SciPy 2018, by David Hoese](https://www.youtube.com/watch?v=G-fz8L9xHIs)
-- [Pytroll Contributors Weeks](workshops/index.md)
-- [Pytroll Coding Guidelines and Best Practices](guidelines.md)
-- [Pytroll Manifest](manifest.md)
-- [Memorandum of Understanding](pytroll_mou_20170222.pdf)
-- [Pytroll Shop](http://pytroll.spreadshirt.net/)
-- [Pytroll History SatPy](https://youtu.be/eBQi2G_fqXQ)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Logos](logos/index.md)
+

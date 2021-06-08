@@ -1,8 +1,10 @@
-# Pytroll manifest
+---
+title: Pytroll Manifesto
+---
 
 ## Pytroll adding value for satellite users
 
-### Produce what users wants (needs!)
+### Produce what users want (need!)
 
 #### Unexpected needs
 

@@ -1,4 +1,6 @@
-# Pytroll package summary overview, dependencies, level of maturity and usage
+---
+title: "Packages Summary"
+---
 
 Below is a short overview of all packages developed by and/or maintained by the Pytroll community. Included is their
 level of maturity, mutual interdependencies, and known operational usage (as of March 2018).

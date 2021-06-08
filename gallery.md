@@ -1,4 +1,6 @@
-## The Pytroll Gallery
+---
+title: Gallery
+---
 
 ### Tutorial: HRIT MSG data reading and processing
 [IPython Notebook](https://nbviewer.jupyter.org/github/pytroll/pytroll-examples/blob/main/satpy/hrit_msg_tutorial.ipynb)
