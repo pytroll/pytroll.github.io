@@ -34,6 +34,7 @@ url: "https://pytroll.github.io" # the base hostname & protocol for your site, e
 
 # Build settings
 remote_theme: jekyll/minima
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
