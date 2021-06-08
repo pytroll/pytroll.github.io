@@ -1,4 +1,6 @@
-# Pytroll coding guidelines and best practices
+---
+title: Coding Guidelines
+---
 
 > “It is not the strongest of the species that survives,
 > nor the most intelligent that survives.

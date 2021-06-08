@@ -1,4 +1,6 @@
-# Contributor Weeks
+---
+title: Contributor Weeks
+---
 
 ## DMI, Copenhagen, Denmark, November 2019
 

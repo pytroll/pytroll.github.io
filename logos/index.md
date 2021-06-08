@@ -1,4 +1,6 @@
-## Pytroll Project Logos
+---
+title: Pytroll Project Logos
+---
 
 Logos for the Pytroll project and the various Pytroll
 python packages can be found below. However, right now

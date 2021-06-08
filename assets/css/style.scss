@@ -1,0 +1,45 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
+/**
+ * Header anchor link placement and hover behavior
+ */
+
+.anchor {
+  position: absolute;
+  padding-right: 0.575em; /* margin-left value divide by 2 */
+  margin-left: -1.15em;
+  color: inherit;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.anchor .icon-link {
+  font-size: 66%;
+  vertical-align: 0.125em;
+}
+
+*:hover > .anchor {
+  visibility: visible;
+  opacity: 0.75;
+  transition: all 0.16s linear;
+}
+
+*:hover > .anchor:hover,
+*:hover > .anchor:focus {
+  opacity: 1;
+}
+
+/* Offsetting an html anchor to adjust for fixed header */
+h1[id],
+h2[id],
+h3[id],
+h4[id],
+h5[id],
+h6[id] {
+  scroll-margin-top: 2.75em;
+}
+
