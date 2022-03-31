@@ -20,7 +20,7 @@ To see what this website will look like in a local environment:
 1. Create a conda environment with ruby installed:
 
    ```bash
-   conda create -n pytroll_site ruby compilers ridk rb-inotify rb-jekyll rb-bundler
+   conda create -n pytroll_site "ruby>=2.6" compilers rb-rb-inotify rb-jekyll
    conda activate pytroll_site
    ```
 
@@ -37,4 +37,9 @@ To see what this website will look like in a local environment:
    ```
 
 4. Open your browser and go to "localhost:4000".
+
+
+Note: We must use ruby 2.6+ as the current version of github pages (225) has
+dependencies that are 2.6+. We also don't explicitly install `rb-bundler` as
+we used to because it is vendored into conda-forge's version of ruby 2.6.
 
