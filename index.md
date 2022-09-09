@@ -30,12 +30,10 @@ For some pytroll examples, you can have a look at the [Pytroll Gallery](gallery.
 
 ## Getting in touch
 
-<script async defer src="https://pytrollslackin.herokuapp.com/slackin.js"></script>
-
 If you want to contact us, we will be very happy to chat with you on the [Pytroll slack](https://pytroll.slack.com).
-To get access you must invite yourself to the slack team by clicking on the
-above badge image or go [here](https://pytrollslackin.herokuapp.com/). This
-invite page can sometimes take a while to load so please be patient.
+To get access you must invite yourself to the slack team by going
+[here](https://join.slack.com/t/pytroll/shared_invite/zt-1ft5pjuqq-RKJ6OBk2VWjDGwpuYoQiXA).
+If you have issues joining the slack, please send an email to the mailing list below.
 
 Alternatively, you can send messages mailing list: <https://groups.google.com/group/pytroll>.
 
