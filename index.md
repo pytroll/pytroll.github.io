@@ -30,8 +30,6 @@ For some pytroll examples, you can have a look at the [Pytroll Gallery](gallery.
 
 ## Getting in touch
 
-<script async defer src="https://pytrollslackin.herokuapp.com/slackin.js"></script>
-
 If you want to contact us, we will be very happy to chat with you on the [Pytroll slack](https://pytroll.slack.com).
 To get access you must invite yourself to the slack team by going
 [here](https://join.slack.com/t/pytroll/shared_invite/zt-1ft5pjuqq-RKJ6OBk2VWjDGwpuYoQiXA).
