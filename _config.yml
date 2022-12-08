@@ -46,8 +46,8 @@ relative_links:
 minima:
   skin: dark
   social_links:
-    twitter: pytrollorg
-    github: pytroll
+    - { platform: twitter, user_url: "https://twitter.com/pytrollorg" }
+    - { platform: github, user_url: "https://github.com/pytroll" }
 header_pages:
   - index.md
   - software.md
