@@ -20,8 +20,9 @@ To see what this website will look like in a local environment:
 1. Create a conda environment with ruby installed:
 
    ```bash
-   conda create -n pytroll_site "ruby>=2.6" compilers rb-rb-inotify rb-jekyll
+   conda create -n pytroll_site "ruby<3.0" compilers
    conda activate pytroll_site
+   gem install rb-inotify jekyll
    ```
 
 2. Install the current site "package"
