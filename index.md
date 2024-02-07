@@ -81,5 +81,6 @@ at the [Workshops](./workshops/index.md) page.
 
 ## Other Links
 
+- [History](history.md)
 - [Logos](logos/index.md)
 
