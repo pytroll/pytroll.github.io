@@ -639,7 +639,7 @@ we recommend upgrading to the current replacement.
 
 * DMI: Danish Meteorological Institute
 
-* DWD: Deutscher Wettedienst (German meteorological service)
+* DWD: Deutscher Wetterdienst (German meteorological service)
 
 * ECCC: Environment and Climate Change Canada
 
