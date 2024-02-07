@@ -43,7 +43,7 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 December 4th, 2019 was the [10 year anniversary of Pytroll](https://youtu.be/RgGiDypQrMQ).
 
-The next Pytroll Contributor Week (PCW) will held in Athens (Greece) Monday 14 November to Friday 18 November 2022. More info [here](https://groups.google.com/g/pytroll/c/E6Mx8KrQ7HA).
+The next Pytroll Contributor Week (PCW) will held online from Monday 11 December to Friday 15 December 2023. More info [here](https://groups.google.com/g/pytroll/c/nIXOT1R9Y3c).
 
 ## Pytroll Contributor Weeks (PCWs)
 

@@ -58,7 +58,7 @@ individual package documentation for details or limitations.
 
 * **Other dependencies**: NumPy, Pillow, Six
 
-* **24/7 production @**: FMI, SMHI, MeteoSwiss, ESTEA, LEGMC, IMO, ECCC, ...
+* **24/7 production @**: FMI, SMHI, MeteoSwiss, DWD, ESTEA, LEGMC, IMO, ECCC, ...
 
 ### Pyorbital:
 
@@ -78,7 +78,7 @@ individual package documentation for details or limitations.
 
 * **Other dependencies**: NumPy
 
-* **24/7 production @**: FMI, SMHI, DMI, ESTEA, LEGMC, IMO, ECCC, Met Norway, ...
+* **24/7 production @**: FMI, SMHI, DWD, DMI, ESTEA, LEGMC, IMO, ECCC, Met Norway, ...
 
 ### Pyresample:
 
@@ -158,7 +158,7 @@ individual package documentation for details or limitations.
 
 * **Other dependencies**: NumPy, Scipy, h5py, Pyyaml, tqdm, requests, appdirs, Six, xlrd (optional), Matplotlib (optional)
 
-* **24/7 production @**: FMI, SMHI, IMO, ECCC
+* **24/7 production @**: FMI, SMHI, DWD, IMO, ECCC
 
 
 ### Posttroll
@@ -318,7 +318,7 @@ individual package documentation for details or limitations.
 
 * **Other dependencies**: Pyinotify, netifaces, Pillow
 
-* **24/7 production @**: FMI, SMHI, Met Norway, ...
+* **24/7 production @**: FMI, SMHI, DWD, Met Norway, ...
 
 ### Trollflow2
 
@@ -378,7 +378,7 @@ individual package documentation for details or limitations.
 
 * **Other dependencies**: NumPy, Six
 
-* **24/7 production @**: MeteoSwiss, DWD
+* **24/7 production @**: MeteoSwiss
 
 ### Pytroll-db
 
@@ -458,7 +458,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Other dependencies**: None
 
-* **24/7 production @**: SMHI
+* **24/7 production @**: SMHI, DWD
 
 ### Pytroll-aapp-runner
 
@@ -478,7 +478,7 @@ Below we list various Pytroll runners for specific tasks and applications. Many 
 
 * **Other dependencies**: None
 
-* **24/7 production @**: FMI, SMHI, Met Norway
+* **24/7 production @**: FMI, SMHI, DWD, Met Norway
 
 ### Pytroll-pps-runner
 
@@ -560,7 +560,7 @@ we recommend upgrading to the current replacement.
 
 * **Other dependencies**: NumPy, Pillow
 
-* **In 24/7 production @**: FMI, SMHI, DMI, Met Norway, MeteoSwiss, DWD, COMet, ESTEA, LEGMC, IMO... 
+* **In 24/7 production @**: FMI, SMHI, DMI, Met Norway, MeteoSwiss, COMet, ESTEA, LEGMC, IMO... 
 
 ### Mipp
 
@@ -578,7 +578,7 @@ we recommend upgrading to the current replacement.
 
 * **Other dependencies**: NumPy
 
-* **In 24/7 production @**: FMI, DMI, SMHI, Met Norway, MeteoSwiss, DWD, COMet, LEGMC, IMO, ESTEA...
+* **In 24/7 production @**: FMI, DMI, SMHI, Met Norway, MeteoSwiss, COMet, LEGMC, IMO, ESTEA...
 
 ### Trollduction
 
@@ -596,7 +596,7 @@ we recommend upgrading to the current replacement.
 
 * **Other dependencies**: Netifaces, netCDF4
 
-* **24/7 production @**: DWD, SMHI
+* **24/7 production @**: SMHI
 
 ### Trollflow
 
@@ -612,7 +612,7 @@ we recommend upgrading to the current replacement.
 
 * **Other dependencies**: Pyyaml, Mock
 
-* **24/7 production @**: FMI, DWD
+* **24/7 production @**: FMI
 
 ### Trollflow-sat
 
@@ -630,7 +630,7 @@ we recommend upgrading to the current replacement.
 
 * **Other dependencies**: Pyyaml
 
-* **24/7 production @**: FMI, DWD
+* **24/7 production @**: FMI
 
 
 ## Institutes/entities
@@ -639,7 +639,7 @@ we recommend upgrading to the current replacement.
 
 * DMI: Danish Meteorological Institute
 
-* DWD: Deutscher Wetter Dienst (German weather service)
+* DWD: Deutscher Wetterdienst (German meteorological service)
 
 * ECCC: Environment and Climate Change Canada
 
