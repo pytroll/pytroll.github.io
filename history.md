@@ -3,7 +3,7 @@ title: History of Pytroll
 ---
 
 The open source collaboration that became Pytroll started in 2009 by a handful
-of developers at the Danish Met Service (DMI) and SMHI including current
+of developers at the Danish Meteorological Institute (DMI) and the Swedish Meteorological and Hydrological Institute (SMHI) including current
 maintainers Martin Raspaud and Adam Dybbroe. We realized that we had a lot in
 common. We all liked Python and were solving or wanted to solve a lot of
 similar problems. There was also a desire to get rid of ill-suited proprietary
