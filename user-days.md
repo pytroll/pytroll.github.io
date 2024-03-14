@@ -2,7 +2,7 @@
 title: Pytroll User Days
 ---
 
-![EUMETSAT](eumetsat.jpg)
+![EUMETSAT](assets/img/eumetsat.jpg)
 
 As the Pytroll community has been growing, and some of the modules like
 Satpy are used by a wider audience, it becomes more difficult for us
