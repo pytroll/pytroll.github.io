@@ -19,11 +19,10 @@ title: Coding Guidelines
 - Indentation is 4 spaces (no tabs!)
 - Max line length is set to 120 characters
 - Every unit of code must be properly tested and documented.
-- Global constants are written in capital letters, eg. PLANK_CONSTANT if they are not modified in the module and should
+- Global constants are written in capital letters, eg. PLANCK_CONSTANT if they are not modified in the module and should
   be placed at the top of the module.
 - About docstrings, we follow the
   [google style](https://google.github.io/styleguide/pyguide.html?showone=Comments#Comments)
-- Python 2 support until end of 2019
 - When in doubt, read pep 20, the Zen of Python (see appendix A)
 
 ## Maintainability Guidelines
@@ -37,8 +36,8 @@ title: Coding Guidelines
 ## Style Checking
 
 In your IDE/editor, it is highly recommended to activate/install a plugin for/script a save hook for doing automatic
-style checks and/or corrections, eg autopep8, pylint, pyflakes. Most repositories will use the "stickler" github bot to
-automatically check pull requests for PEP8 with the `flake8` tool.
+style checks and/or corrections, eg autopep8, pylint, pyflakes. Most repositories will use automated tools to
+check pull requests for style and code quality.
 
 ## Working with Github
 
@@ -62,8 +61,6 @@ commits they should be purged from the commit history. See
 
 - How to [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 - How to [fork a repository](https://help.github.com/articles/fork-a-repo/)
-
-Alternatively, patches formatted with the git format-patch command can be sent to the bdfl of the package.
 
 The submitted work will be reviewed by the main contributors of the package, possibly engaging in a discussion on
 the patch, and maybe requesting changes. Be prepared to follow up on your work.
