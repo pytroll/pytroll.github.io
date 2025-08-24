@@ -37,7 +37,7 @@ If you have issues joining the slack, please send an email to the mailing list b
 
 Alternatively, you can send messages mailing list: <https://groups.google.com/group/pytroll>.
 
-<a href="https://twitter.com/PytrollOrg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PytrollOrg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<button class="mastodon-follow" data-followtype="remote" data-account="@pytroll@fosstodon.org"></button>
 
 ## Announcements
 
