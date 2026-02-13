@@ -46,7 +46,7 @@ relative_links:
 minima:
   skin: dark
   social_links:
-    - { platform: twitter, user_url: "https://twitter.com/pytrollorg" }
+    - { platform: mastodon, user_url: "https://mastodon.social/@pytroll@fosstodon.org" }
     - { platform: github, user_url: "https://github.com/pytroll" }
 header_pages:
   - index.md
