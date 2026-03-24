@@ -32,6 +32,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "webrick", "~> 1.8.2"
 gem "csv"
-gem "activesupport", "~> 6.1.7.3"
+gem "activesupport", "~> 7.2.3.1"
 gem "base64"
 gem "bigdecimal"
