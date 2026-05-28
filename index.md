@@ -17,7 +17,7 @@ The focus is on atmospheric applications and imaging sensors, but as seen from t
 ## Pytroll packages and supported data
 
 You can find the complete list of pytroll packages on github.com: <https://github.com/pytroll>.
-Also checkout this [overview description](pytroll_packages_overview.md) of all packages and their mutual 
+Also checkout this [overview description](pytroll_packages_overview.md) of all packages and their mutual
 dependencies, maturity and known operational usage.
 
 A non exhaustive list of supported satellites and formats is provided here: <http://satpy.readthedocs.io/en/latest/>
@@ -39,13 +39,6 @@ Alternatively, you can send messages mailing list: <https://groups.google.com/gr
 
 <a href="https://twitter.com/PytrollOrg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PytrollOrg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Announcements
-
-### Pytroll User Days!
-
-On 10 and 11 June 2024 we will organise the **Pytroll User Days** in Darmstadt, Germany.
-
-See the [full announcement and registration link](user-days.md).
 
 ## Pytroll Contributor Weeks (PCWs)
 
@@ -64,25 +57,19 @@ Any questions can be asked on the mailing list or on pytroll.slack.com (see
 
 ### Past PCWs
 
-The most recent in-person Pytroll Contributor Week took place at the DMI headquarters in
-Copenhagen, Denmark, from November 25th till 29th, 2019. The Copenhagen PCW was
-particularly special since it was taking place almost exactly 10 years since
-Pytroll was started, then as a bilateral cooperation between the Danish and
-Swedish Met services. This time we were 18 people attending, almost all of us
-during the entire week, coming from Poland, Germany, Switzerland, Sweden,
-Denmark and Italy, representing 8 different entities (National Met services,
-EUMETSAT, Tecnavia (Swiss company), and other governmental/environmental
-institutes). We had a mixture of a few first time attendees to those who have
-been attending regularly the last few years.
+The most recent in-person Pytroll Contributor Week took place at the National
+Archaeological Museum of Reggio Calabria (MArRC) in south Italy. The PCW was
+organised by the National Institute of Geophysics and Vulcanology (INGV) and
+hosted by INGV in collaboration with MArRC.
 
-![PCW@DMI](workshops/IMG_5639_cropped_thumb.JPG)
 
-For a summary of achievements in the last PCW and to see other workshops look
-at the [Workshops](./workshops/index.md) page.
+![PCW@INGV](workshops/PXL_20260520_072105285_cropped.jpg)
+
+For a summary of achievements in the last PCW and at other PCWs please have a look
+at the [PCW](./workshops/index.md) page.
 
 
 ## Other Links
 
 - [History](history.md)
 - [Logos](logos/index.md)
-
