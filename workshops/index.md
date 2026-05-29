@@ -21,7 +21,9 @@ Office, Met service of Catalunia, Spain); EUMETSAT, INGV (Italy) and Tecnavia
 ![PCW@INGV](PXL_20260520_072105285_cropped.jpg)
 
 
-### List of achievements in summary
+### Summary of items adressed during the week
+
+Below is a summary list of what we worked with and achieved during the PCW:
 
  - Pyresample/Satpy: Handling level-1 scenes with nodata at start or end of
    swath - currently the derivation of the bounding box of such a scene
@@ -46,7 +48,7 @@ Office, Met service of Catalunia, Spain); EUMETSAT, INGV (Italy) and Tecnavia
  - Fix errors in Geocolor composite, try to create the Low Level Moisture RGB
    cloud masked with trollflow2, document how reflectance and brightness
    temperature is calculated with Satpy, learn and discuss new ways to
-   detectOvershooting Tops with MTG.
+   detec tOvershooting Tops with MTG.
 
  - Satpy: Seek consolidation on the naming of level-1b reflectances which are
    not "normalized" with the cosine to the satellite zenith angle
@@ -83,7 +85,7 @@ Office, Met service of Catalunia, Spain); EUMETSAT, INGV (Italy) and Tecnavia
 
  - Pyresample: Adding a force argument to allow gapfilling
 
- - Pyresample: Fix the EWA resampling for non-contiguous arrays (like from METimage
+ - Pyresample: Fix the EWA resampling for non-contiguous arrays (like from METimage)
 
 
 
