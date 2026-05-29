@@ -2,6 +2,105 @@
 title: Contributor Weeks
 ---
 
+## INGV/MArRC, Reggio Calabria, Italy, May 2026
+
+The 2026 in-person Pytroll Contributor Week took place at the National
+Archaeological Museum of Reggio Calabria (MArRC) in south Italy. The PCW was
+organised by the National Institute of Geophysics and Vulcanology (INGV) and
+hosted by INGV in collaboration with MArRC. We were 17 participants from
+various Met Services around Europe (DWD, Meteo Swiss, FMI, SMHI, Icelandic Met
+Office, Met service of Catalunia, Spain); EUMETSAT, INGV (Italy) and Tecnavia
+(Switzerland).
+
+![PCW@INGV](IMG_0581_cropped.JPEG)
+![PCW@INGV](IMG_0595_cropped.JPEG)
+![PCW@INGV](IMG_0598_cropped.JPEG)
+![PCW@INGV](IMG_0587_cropped.JPEG)
+![PCW@INGV](IMG_0585_cropped.JPEG)
+![PCW@INGV](IMG_0590_cropped.JPEG)
+![PCW@INGV](PXL_20260520_072105285_cropped.jpg)
+
+
+### Summary of items adressed during the week
+
+Below is a summary list of what we worked with and achieved during the PCW:
+
+ - Pyresample/Satpy: Handling level-1 scenes with nodata at start or end of
+   swath - currently the derivation of the bounding box of such a scene
+   fails. Trying to extract the bounding box directly from the file instead of
+   calculating it from data.
+
+ - Collecting segments for non-integer timesteps, like for MTG FCI RSS which has a repeat cycle of 2.5 minutes
+
+ - Pytroll-collectors: Some refactoring, fixing timezone aware datetimes and adding log-config capability.
+
+ - Integrating LI flash geometry into satpy.
+
+ - Working on the generation of a world composite map, combining data from the
+   European, American and Japanese geostationary satellites.
+
+ - ninjogeotiff write: correct definitions of the parameters for writing
+   geotiff pyramid data of the SAFNWC-MTG for NinJo ingestion
+
+ - Generating MTG high resolution images for some meteorological events to show
+   the benefit of the increased spatial resolution to the end-users.
+
+ - Fix errors in Geocolor composite, try to create the Low Level Moisture RGB
+   cloud masked with trollflow2, document how reflectance and brightness
+   temperature is calculated with Satpy, learn and discuss new ways to
+   detec tOvershooting Tops with MTG.
+
+ - Satpy: Seek consolidation on the naming of level-1b reflectances which are
+   not "normalized" with the cosine to the satellite zenith angle
+
+ - Satpy: Maintainence of SEVIRI and FCI L2 readers (more datasets and resoolve warnings)
+
+ - Satpy: Refactor and standardize methods for sun zenith angle corrections.
+
+ - Towards Pytroll on Kubernetes (K8s)
+   - Brainstorm and initial design of how pytroll components could work on K8s
+     with current containers and implementation of the components and messaging
+     architecture.
+
+   - Creation of helm-charts repository for pytroll components https://github.com/pytroll/pytroll-charts/
+
+     - segment-gatherer DONE <https://github.com/pytroll/helm-charts/tree/main/charts/segment-gatherer>
+
+     - trollflow2 DONE <https://github.com/pytroll/pytroll-charts/tree/main/charts/trollflow2>
+
+   - Release of helm-charts official DONE
+     https://pytroll.github.io/pytroll-charts/. This will enable the usage of
+     the helm charts on K8s natively and the use of ArgoCD on deploying
+     helm-charts and allow Infrastructure as Code (IaC)
+
+   - Creation of pytroll-iac-examples to host blueprints examples on how to
+     deploy pytroll helm-charts into K8s through iac tools (e.g. opentofu,
+     ArgoCD) DONE https://github.com/pytroll/pytroll-iac-examples
+
+     - segment-gatherer on ArgoCD: DONE <https://github.com/pytroll/pytroll-iac-examples/tree/main/pytroll-stack-argocd/segment-gatherer>
+
+ - Satpy: Developing a GRIB2 writer.
+
+ - Satpy: Renaming the VII reader to METimage and fix some bugs
+
+ - Pyresample: Adding a force argument to allow gapfilling
+
+ - Pyresample: Fix the EWA resampling for non-contiguous arrays (like from METimage)
+
+<!-- ## List of workshops between this one above and the Copenhagen one in 2019:
+
+  - Virtual - 4-8 May 2020
+  - Virtual - 30 Nov - 4 Dec 2020
+  - Virtual - 17-21 May 2021
+  - Virtual - 29 Nov - 3 Dec 2021
+  - Virtual - 2-6 May 2022
+  - HNMS, Hellenic National Meteorological Agency, Greece - 14-18 November 2022
+  - SMHI, Norrköping, Sweden - 22-26 May 2023
+  - Virtual - 11-15 December 2023
+  - EUMETSAT Head Quarters, Darmstadt, Germany - June 2024
+  - MeteoSvizzera 2025, Locarno-Monti
+-->
+
 ## DMI, Copenhagen, Denmark, November 2019
 
 The 10 years anniversary PCW took place at the Danish Meteorological Institute
@@ -106,7 +205,7 @@ organisations were represented:
 - Add unittests for native_msg area_extent calculations
 - Add MPEF product reader
 - Add GOES-15 netCDF reader
-- Port MTSAT-1R/2 HRIT readers from mipp to satpy 
+- Port MTSAT-1R/2 HRIT readers from mipp to satpy
 - Fix #414 (geostationary radiance units)
 - Flake8-ify all of SatPy
 - Satpy xarray/dask and pyninjotiff compatibility
@@ -131,7 +230,7 @@ organisations were represented:
 
 ## Norwegian Meteorological Institute, Oslo, April, 2018
 
-The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk Institutt, in Oslo, Norway, 
+The Pytroll workshop for spring 2018 took place at the Norwegian Meteorologisk Institutt, in Oslo, Norway,
 from Monday April 23rd to Friday April 27th 2018.
 
 ![Pytroll@Met.No](20180425_oslo.png)
@@ -140,7 +239,7 @@ from Monday April 23rd to Friday April 27th 2018.
 ## Centre Météorologie Spatiale (CMS), Météo-France, Lannion, September 2017
 
 A pytroll developers workshop took place at the Céntre Météorologie Spatiale in Lannion, Brittany, France, from 11-15 of
-September 2017. 15 participants from several national Meteorological Institutes in Europe, incldung Switzerland, Germany, 
+September 2017. 15 participants from several national Meteorological Institutes in Europe, incldung Switzerland, Germany,
 Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one week improving and enhancing the Pytroll software.
 
 ![Pytroll@CMS](20170914_lannion.JPG)
@@ -149,8 +248,8 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
 
 - Fine tuning for operational duties:
   - GOES-16  → NinJo projection
-  - Satpy Ninjotiff 
-- Enhanced visualizations (smoothing, overplotting in transparence, …) of some NWCSAF v2016 CMIC products 
+  - Satpy Ninjotiff
+- Enhanced visualizations (smoothing, overplotting in transparence, …) of some NWCSAF v2016 CMIC products
   (short presentation by Lorenza)
 - fogpy - a FLS (Fog/Low stratus) detection algorithm with Pytroll (Short presentation by mastho)
 - Made a new draft Pytroll web main page at pytroll.github.io. Discussing migration of the old one at pytroll.org
@@ -164,12 +263,12 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
   - Move_it server/mirror/client setup
   - Move_it server/mirror/client more robust ? (plugin to heartbeat handler ?)
   - SFTP transfer
-  
-  
-- Pyninjotiff 
+
+
+- Pyninjotiff
   - https://github.com/pytroll/pyninjotiff
-  - Pyninojotiff: a command line interface (good for non-programmers). E.g. to convert a geo-tiff (or raster) image to 
-    a ninjotiff format (ninjo tags could be defined on command line or in a configuration file).  
+  - Pyninojotiff: a command line interface (good for non-programmers). E.g. to convert a geo-tiff (or raster) image to
+    a ninjotiff format (ninjo tags could be defined on command line or in a configuration file).
   - How can pyninjotiff be used with satpy?
 
 - Pyresample
@@ -196,24 +295,24 @@ Denmark, Iceland, Finland, Sweden, and France, worked concentrated during one we
 
 ## RSHU, Saint Petersburg, Russia, March 2017
 
-A pytroll developers workshop was held at the Russian State Hydrometeorological University (RSHU) 
-in Saint Petersburg, Russia, between March 27th and 31st, 2017. We were around 20 participants from 
+A pytroll developers workshop was held at the Russian State Hydrometeorological University (RSHU)
+in Saint Petersburg, Russia, between March 27th and 31st, 2017. We were around 20 participants from
 various National Meteorological Institutes, universities and companies.
 
 ![Pytroll@rshu](20170327_stpetersburg.JPG)
 
 ## FMI, Helsinki, Finland, November 2016
 
-A pytroll developers workshop was held at the Finnish Meteorological Institute (FMI) in Helsinki between November 
-28th and December 2nd, 2016. We were 14 developers from various National Meteorological Institutes and companies 
+A pytroll developers workshop was held at the Finnish Meteorological Institute (FMI) in Helsinki between November
+28th and December 2nd, 2016. We were 14 developers from various National Meteorological Institutes and companies
 around Europe.
 
 ![Pytroll@fmi](20161128_helsinki.JPG)
 
 ## DWD, Offenbach, Germany, June 2016
 
-A pytroll developers workshop was held at the Head Quarters of Deutscher Wetterdienst (DWD) in Offenbach between 
-June 13 and 17, 2016. With the paticipation of 18 developers from the national Met Services of Switzerland, 
+A pytroll developers workshop was held at the Head Quarters of Deutscher Wetterdienst (DWD) in Offenbach between
+June 13 and 17, 2016. With the paticipation of 18 developers from the national Met Services of Switzerland,
 Norway, Denmark, Sweden, Finland and Germany, as well as EUMETSAT it was the largest to date.
 
 ![Pytroll@dwd](20160613_offenbach.JPG)
@@ -232,10 +331,10 @@ Pytroll workshop in Norrköping, Sweden in June 2015
 
 ## SMHI, Norrköping, Sweden, November 2013
 
-After a two day open workshop we were 7 pytrollers from Finland, Iceland and Sweden staying till the end of week working 
-together on some pressing issues. See below for a summary of achievements. If you would like to contribute actively with 
-the pytroll development, please let us know at the mailing list (pytroll@googlegroups.com) or chat with us directly on the 
-pytroll slack: https://pytrollslackin.herokuapp.com/. We plan to have two pytroll weeks (usually 4-5 days of dedicated 
+After a two day open workshop we were 7 pytrollers from Finland, Iceland and Sweden staying till the end of week working
+together on some pressing issues. See below for a summary of achievements. If you would like to contribute actively with
+the pytroll development, please let us know at the mailing list (pytroll@googlegroups.com) or chat with us directly on the
+pytroll slack: https://pytrollslackin.herokuapp.com/. We plan to have two pytroll weeks (usually 4-5 days of dedicated
 programming) each year. Usually we will identifiy a few specific topics that we think needs special attention.
 
 ![Pytroll@smhi-2013-1](201311_norrkoping-1.jpg)
@@ -249,11 +348,11 @@ programming) each year. Usually we will identifiy a few specific topics that we 
  - Enhancements to Pyresample:
    - Now Pyresample allows to attach a weight to the gaussian reprojection method. This is convenient when e.g. gridding
      several swath products into a level 2.5/3 product (Climate applications).
- - MIPP enhancements and user documentation: MIPP allows XRIT decompression on the fly, and MIPP documentation 
+ - MIPP enhancements and user documentation: MIPP allows XRIT decompression on the fly, and MIPP documentation
    slightly improved.
  - Three new projects initiated:
    - Pydecorate to add logos, text, color bars and stuff to images
-   - Trollimage - an enhancement of the image.py module in mpop including some color enhancements. 
+   - Trollimage - an enhancement of the image.py module in mpop including some color enhancements.
      Will deprecate image.py in mpop
    - Trollduction - A modular batch production framework for Pytroll
  - netCDF reader for SSM/I
@@ -290,8 +389,8 @@ Watch all the presentations on [youtube](http://www.youtube.com/watch?v=WEk95gxO
 
 ## SMHI, Norrköping, Sweden, November 2012
 
-The first open Pytroll workshop was held in Norrköping, Sweden, end of November, 2012. Nine programmers or satellite 
-experts from Holland, Finland, Romania and EUMETSAT joined up with the pytroll teams at DMI and SMHI, to get more 
+The first open Pytroll workshop was held in Norrköping, Sweden, end of November, 2012. Nine programmers or satellite
+experts from Holland, Finland, Romania and EUMETSAT joined up with the pytroll teams at DMI and SMHI, to get more
 acquainted with the pytroll tools and how it can be used in their local environments for satellite data production.
 
 Hard work at the 2012 workshop in Norrköping, Sweden:
@@ -314,4 +413,3 @@ Hard work at the 2012 workshop in Norrköping, Sweden:
 - [Trollcast](https://docs.google.com/presentation/d/1I7q6kgm4K2pEL8QP0SJkGsHDH5f3UHnDYe5GCA9NB_g/edit)
 - [Other pytroll projects](https://docs.google.com/presentation/d/1RL9nr2pvo9vG-WaNtckhRJWdO4bLBSPC53nYc3g3mjQ/edit)
 - [Tools](https://docs.google.com/presentation/d/1AMZt0jBMYem8g7tbNOvz9MEWRm-DbwNCBv9KJPA32cE/edit)
-
