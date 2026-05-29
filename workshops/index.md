@@ -87,7 +87,19 @@ Below is a summary list of what we worked with and achieved during the PCW:
 
  - Pyresample: Fix the EWA resampling for non-contiguous arrays (like from METimage)
 
+<!-- ## List of workshops between this one above and the Copenhagen one in 2019:
 
+  - Virtual - 4-8 May 2020
+  - Virtual - 30 Nov - 4 Dec 2020
+  - Virtual - 17-21 May 2021
+  - Virtual - 29 Nov - 3 Dec 2021
+  - Virtual - 2-6 May 2022
+  - HNMS, Hellenic National Meteorological Agency, Greece - 14-18 November 2022
+  - SMHI, Norrköping, Sweden - 22-26 May 2023
+  - Virtual - 11-15 December 2023
+  - EUMETSAT Head Quarters, Darmstadt, Germany - June 2024
+  - MeteoSvizzera 2025, Locarno-Monti
+-->
 
 ## DMI, Copenhagen, Denmark, November 2019
 
