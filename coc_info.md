@@ -10,7 +10,7 @@ repositories.
 This code of conduct applies to the
 project space (GitHub) as well as the public space online and offline when
 an individual is representing the project or the community. Online examples
-of this include the Pytroll Slack team, mailing list, and the Pytroll twitter
+of this include the Pytroll Slack team, mailing list, and the Pytroll mastodon
 account. This code of conduct also applies to in-person situations like
 Pytroll Contributor Weeks (PCW), conference meet-ups, or any other time when
 the project is being represented.
