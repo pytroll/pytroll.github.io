@@ -40,9 +40,17 @@ plugins:
   - jekyll-remote-theme
   # see https://github.com/benbalter/jekyll-relative-links
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
+# Use the "page" layout for any page that doesn't specify one
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 minima:
   skin: dark
   social_links:
@@ -77,3 +85,7 @@ header_pages:
 
 sass:
   style: compressed
+  # Only generate CSS source maps when developing locally
+  sourcemap: development
+  # Hide Sass deprecation warnings coming from the theme's files
+  quiet_deps: true
