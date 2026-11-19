@@ -151,7 +151,7 @@ GEM
     tzinfo-data (1.2026.6)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.6.0)
-    wdm (0.1.1)
+    wdm (0.2.0)
     webrick (1.9.2)
 
 PLATFORMS
@@ -183,7 +183,7 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.9)
   tzinfo (>= 1, < 3)
   tzinfo-data
-  wdm (~> 0.1.1)
+  wdm (~> 0.2.0)
 
 BUNDLED WITH
    2.6.9
