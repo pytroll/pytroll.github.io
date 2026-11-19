@@ -13,16 +13,28 @@ Everything is configured in `_config.yml` and the theme is further customized
 in the `_includes`, `_layout`, and `assets` directories. The current major
 customization is adding anchor icons to each section header using anchorjs.
 
+## Deployment
+
+The site is built and deployed by the GitHub Actions workflow in
+`.github/workflows/pages.yml` on every push to the `main` branch. Pull
+requests are built, but not deployed, to check that the site still builds.
+The repository's Settings -> Pages -> "Build and deployment" source must be
+set to "GitHub Actions".
+
+The site is built with Jekyll 4 and the gem versions in `Gemfile.lock`. Any
+Jekyll plugins the site uses must be added to the `Gemfile` and to `plugins:`
+in `_config.yml`.
+
 ## Local Development
 
 To see what this website will look like in a local environment:
 
-1. Create a conda environment with ruby installed:
+1. Create a conda environment with ruby installed (ruby 3.2 or newer is
+   required, the GitHub Actions workflow uses 3.4):
 
    ```bash
-   conda create -n pytroll_site "ruby>3" compilers
+   conda create -n pytroll_site "ruby>=3.2" compilers
    conda activate pytroll_site
-   gem install rb-inotify jekyll
    ```
 
 2. Install the current site "package"
@@ -39,7 +51,5 @@ To see what this website will look like in a local environment:
 
 4. Open your browser and go to "localhost:4000".
 
-
-Note: We must use ruby 2.6+ as the current version of github pages (225) has
-dependencies that are 2.6+. We also don't explicitly install `rb-bundler` as
-we used to because it is vendored into conda-forge's version of ruby 2.6.
+To update the gems used to build the site run `bundle update` and commit the
+updated `Gemfile.lock`.
